@@ -1,0 +1,1172 @@
+[
+  {
+    "label": "Abbest Cave",
+    "info": "Abbest Cave is a field with pink flowers and glowing animals located past the Spring Meadows. The entrance is seen with long pink flowers on vines that hang over the cave entrance.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Abbest+Cave",
+    "x": 792,
+    "y": 1461,
+    "bosses": [
+      {
+        "name": "Chromatic Abbest",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Abbest",
+        "notes": " The Chromatic Abbest is the boss form of the regular enemy, Abbest. It has a similar appearance to the base enemy, except its body is covered with pink petals."
+      }
+    ]
+  },
+  {
+    "label": "Ancient Gestral City",
+    "info": "The Ancient Gestral City is a location that does not have any areas to explore and only contains a Music Record.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Ancient+Gestral+City",
+    "x": 835,
+    "y": 1473
+  },
+  {
+    "label": "Ancient Sanctuary (North)",
+    "info": "The Ancient Sanctuary is a maze-like location with branching paths and hidden dangers due to Gestrals wanting to hide their village. Players will encounter Sakapatates in this area — combat creations of the Gestrals. The Ancient Sanctuary will serve as the only route going to the Gestral Village.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Ancient+Sanctuary",
+    "x": 814,
+    "y": 1423
+  },
+  {
+    "label": "Ancient Sanctuary (South)",
+    "info": "The Ancient Sanctuary is a maze-like location with branching paths and hidden dangers due to Gestrals wanting to hide their village. Players will encounter Sakapatates in this area — combat creations of the Gestrals. The Ancient Sanctuary will serve as the only route going to the Gestral Village.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Ancient+Sanctuary",
+    "x": 814,
+    "y": 1423,
+    "bosses": [
+      {
+        "name": "Ultimate Sakapatate",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Ultimate+Sakapatate",
+        "notes": "The Ultimate Sakapatate is an enemy with a large shield as tall as the boss on its left hand and a red furry mace on the right hand. This boss can be encountered in the open field under the large bell on the northern outskirts of the Ancient Sanctuary. The Ultimate Sakapatate is weak to the Fire Element."
+      },
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      },
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "In the Sanctuary Maze section, follow the main path until you reach an area of a destroyed wooden structure. Behind the structure, you can find a Mime that drops the Baguette Outfit (Lune) and Baguette Haircut (Lune)."
+      }
+    ]
+  },
+  {
+    "label": "Blades' Graveyard",
+    "info": "Blades' Graveyard is a sub-location that does not have any areas to explore and only hides a Music Record.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Blades'+Graveyard",
+    "x": 776,
+    "y": 1214
+  },
+  {
+    "label": "Boat Graveyard",
+    "info": "The Boat Graveyard location can be found south of the Forgotten Battlefield, it requires Esquie's ability to swimn to reach the location.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Boat+Graveyard",
+    "x": 932,
+    "y": 1150
+  },
+  {
+    "label": "Coastal Cave",
+    "info": "The Coastal Cave is a sub-location where players can find a Cruler and a Bruler blacksmith whom they can purchase weapons from.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Coastal+Cave",
+    "x": 959,
+    "y": 1049
+  },
+  {
+    "label": "Crimson Forest",
+    "info": "The Crimson Forest is a peaceful forest with beautiful scenery, activate with statues in the area to alter this location. Crimson Forest is located on the coast southwest of the Blades' Graveyard.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Crimson+Forest",
+    "x": 711,
+    "y": 1263,
+    "bosses": [
+      {
+        "name": "Chromatic Gold Chevaliere",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Gold+Chevaliere",
+        "notes": "Activate the 3 statues to fight against the boss."
+      }
+    ]
+  },
+  {
+    "label": "Crushing Cavern",
+    "info": "Crushing Cavern is a sub-location that features dark tunnels and a large enemy that resides within it. This is located on the northern part of the main island of Act I.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Crushing+Cavern",
+    "x": 778,
+    "y": 1355,
+    "bosses": [
+      {
+        "name": "Giant Sapling",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Giant+Sapling",
+        "notes": "The Giant Sapling boss fight is timed. You need to do enough damage to win the fight before the Giant Sapling's seventh turn, or the walls close in and crush your party."
+      }
+    ]
+  },
+  {
+    "label": "Dark Gestral Arena",
+    "info": "The Dark Gestral Arena is located on a floating isle southeast of White Tree, players are challenged to take on 4 different bosses.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Dark+Gestral+Arena",
+    "x": 771,
+    "y": 1407,
+    "bosses": [
+      {
+        "name": "Chromatic Catapult Sakapatate",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Catapult+Sakapatate",
+        "notes": "Shoot the wheels of the catapult with free aim shot to weaken it and inflict high damage."
+      },
+      {
+        "name": "Chromatic Ranger Sakapatate",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Ranger+Sakapatate",
+        "notes": "Dressed in patchwork clothing made from different fabrics, giving it a ragged, puppet-like look. Its face is hidden behind a rough, angular mask with sharp features. The creature's body is round and stuffed, like a large doll."
+      },
+      {
+        "name": "Chromatic Robust Sakapatate",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Robust+Sakapatate",
+        "notes": "A large enemy covered in patchwork armor made from colorful, worn materials. The armor looks rough and makes the enemy resemble a bulky, stuffed creature."
+      },
+      {
+        "name": "Golgra",
+        "difficulty": "Hard",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Golgra",
+        "notes": "Golgra is the chief of the Gestrals in Gestral Village. She is incredibly powerful and does 3 or 4 hit combo moves, some of which are very fast."
+      }
+    ]
+  },
+  {
+    "label": "Dark Shores",
+    "info": "Dark Shores is located on the purple beach southwest of Spring Meadows, players will need to take out the Noir enemies in this location and collect the loot.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Dark+Shores",
+    "x": 776,
+    "y": 1535
+  },
+  {
+    "label": "Endless Night Sanctuary",
+    "info": "The Endless Night Sanctuary is located in the red forest south of Sinister Cave.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Endless+Night+Sanctuary",
+    "x": 1207,
+    "y": 877,
+    "bosses": [
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      },
+      {
+        "name": "Ultimate Sakapatate",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Ultimate+Sakapatate",
+        "notes": "The Ultimate Sakapatate is an enemy with a large shield as tall as the boss on its left hand and a red furry mace on the right hand. This boss can be encountered in the open field under the large bell on the northern outskirts of the Ancient Sanctuary. The Ultimate Sakapatate is weak to the Fire Element."
+      },
+      {
+        "name": "Chromatic Cruler",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Cruler",
+        "notes": "This is a large enemy with rough, bumpy skin and strange, fleshy growths. Its body has deep, hollow spaces on its chest. The upper part of its body is large and bulky, with a big Club. The skin is dark with red, fleshy patches that seem to glow."
+      }
+    ]
+  },
+  {
+    "label": "Endless Tower",
+    "info": "The Endless Tower is a location that pits players into a gauntlet of enemies and bosses to fight and earn unique rewards. There are 11 stages and 33 trials to complete in this location. The Endless Tower can only be accessed in Act III or after the game's main campaign, since it requires Esquie's ability to fly.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Endless+Tower",
+    "x": 706,
+    "y": 1311
+  },
+  {
+    "label": "Esoteric Ruins",
+    "info": "The Esoteric Ruins are located west of Old Lumiere. Players can find a spirit Nevron who asks the expeditioners' aid to find an item that is located at the ruins, past the maze. The goal is to find the item, return it to the Nevron, and collect your reward.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Esoteric+Ruins",
+    "x": 699,
+    "y": 915,
+    "bosses": [
+      {
+        "name": "Portier",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Portier",
+        "notes": "After delivering the Wood Boards, the spirit you encountered at the entrance turns into a boss."
+      }
+    ]
+  },
+  {
+    "label": "Esquie's Nest",
+    "info": "In Esquie's Nest, players will get to meet the Legendary Esquie and request help from him to cross the sea. In order to do that, they must first help him by looking for his beloved pet rock, Florrie, which was said to have been stolen by Francois. According to Esquie, Florrie gives him the ability or the motivation to fly.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Esquie's+Nest",
+    "x": 846,
+    "y": 1423,
+    "bosses": [
+      {
+        "name": "François",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Fran%C3%A7ois",
+        "notes": "François is a turtle with glowing blue mushrooms growing its exterior shell. It can cast Ice Element spells to inflict damage to its targets. François does not have a visible weak point."
+      },
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      },
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "From Francois' Cave checkpoint in Esquie's Nest, go inside the cave, then turn right, and use the rope to go up one level. Walk over to the edge, and you'll see a Mime near the water. Carefully jump down on the right side, then defeat this Mime to get Baguette Outfit (Sciel) and Baguette Haircut (Sciel)."
+      }
+    ]
+  },
+  {
+    "label": "Falling Leaves",
+    "info": "Falling Leaves is a sub-location located northwest of the Forgotten Battlefield, and requires players to unlock Esquie's ability to swim. This area features various enemies from previous visited areas and two big bosses.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Falling+Leaves",
+    "x": 679,
+    "y": 1107,
+    "bosses": [
+      {
+        "name": "Chromatic Ballet",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Ballet",
+        "notes": "It wears a yellow or gold outfit with a scarf wrapped around its neck. Its most noticeable feature is the smooth, white mask covering its face, which has no eyes or mouth. The enemy has messy, wild hair that sticks out behind its head."
+      },
+      {
+        "name": "Scavenger",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Scavenger",
+        "notes": "The Scavenger is a Dark-based boss that resists every element except Light and Physical, so Verso is highly recommended while Sciel and Lune are not. Try to avoid using most elemental attacks, and lean on Light and Physical."
+      }
+    ]
+  },
+  {
+    "label": "Floating Cemitery",
+    "info": "In Floating Cemetery encounter a Chalier and agree to duel with him with a weapon of your choosing. This location is located on a floating isle west of the Forgotten Battlefield.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Floating+Cemitery",
+    "x": 641,
+    "y": 1059
+  },
+  {
+    "label": "Flying Casino",
+    "info": "The Flying Casino is a sub-location that is located on a levitating isle northeast of the Stone Wave Cliffs. Players will have to play as Monoco to speak with the Gestral at the Casino to get a reaction and a reward.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Flying+Casino",
+    "x": 927,
+    "y": 1284
+  },
+  {
+    "label": "Flying Manor",
+    "info": "Flying Manor is found southwest of Monoco's station on the map and requires flight to reach. In the Flying Manor, you will be facing several familiar enemies and bosses being created by the powerful being locked inside the manor. You will need to defeat four bosses before unlocking the path to the manor, which you can do in any order.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Flying+Manor",
+    "x": 771,
+    "y": 1075,
+    "bosses": [
+      {
+        "name": "Clea",
+        "difficulty": "Very Hard",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Clea",
+        "notes": "Clea is one of the harder bosses of the game and is located is on the Flying Manor. Weak against Void Damage."
+      },
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "Take the elevator on the left of the central plaza to go to the Goblu area. As you arrive, you'll see a rope to the left that goes down. In this area, there's another rope that goes up onto the Mime. Rewards you with Clea's hair (Maelle)"
+      },
+      {
+        "name": "Gargant",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Gargant",
+        "notes": "Gargant is a large creature with rocks that make up its entire body. These rocks on the Gargant have golden markings on them, which appear to have grown from underground. The Gargant is unable to move the lower half of its body, which forces it to remain in the same place throughout the fight. Gargant has a unique combat mechanic that allows it to switch its stance between Fire and Ice, which alters the color of the flame appearing at the base of its body, as well as its resistances."
+      },
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      }
+    ]
+  },
+  {
+    "label": "Flying Waters (North)",
+    "info": "Flying Waters is a location offering a unique atmosphere as you will be walking at the bottom of the ocean, with it featuring vibrant underwater scenery with colorful corals. Flying Waters also contains an entrance to The Manor.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Flying+Waters",
+    "x": 825,
+    "y": 1441,
+    "bosses": [
+      {
+        "name": "Goblu",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Goblu",
+        "notes": "The Goblu has long red hair with three painted masks in the middle. It mostly uses its limbs to attack and perform combos. Goblu is weak to the Lightning Damage and can grow multiple flowers throughout the fight that allow Goblu to generate shields. Weak against Lightning Damage."
+      }
+    ]
+  },
+  {
+    "label": "Flying Waters (South)",
+    "info": "Flying Waters is a location offering a unique atmosphere as you will be walking at the bottom of the ocean, with it featuring vibrant underwater scenery with colorful corals. Flying Waters also contains an entrance to The Manor.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Flying+Waters",
+    "x": 819,
+    "y": 1453,
+    "bosses": [
+      {
+        "name": "Bourgeon",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Bourgeon",
+        "notes": "Near the Lumieran Streets rest point, down the path."
+      },
+      {
+        "name": "Chromatic Troubadour",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Troubadour",
+        "notes": "The Chromatic Troubadour wields a musical instrument that it uses to slam against its targets to inflict damage. This enemy has a visible weak point which is a single dot in the middle of its chest."
+      },
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "Towards the end of the main path in Flying Waters, where you will find a trail of corpses that will lead to a shadow of a gigantic enemy with extra-long limbs. Once you see this enemy, turn right and look for a path between the tall, kelp-looking plants. Climb the platform to find the Mime in a secluded area. This enemy drops a Short Haircut (Maelle)."
+      }
+    ]
+  },
+  {
+    "label": "Forgotten Battlefield (North)",
+    "info": "In the Forgotten Battlefield you will have to face plenty of enemies while on your way to reach the Monolith. You will encounter a powerful Nevron, Dualliste, who has slain countless expeditioners who have wandered in this place.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Forgotten+Battlefield",
+    "x": 851,
+    "y": 1107,
+    "bosses": [
+      {
+        "name": "Dualliste",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Dualliste",
+        "notes": "The Dualliste is a large enemy that wields a longsword and appears to be burning from within. This boss does not have a visible weak point but is weak to Light Damage."
+      },
+      {
+        "name": "Chromatic Luster",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Luster",
+        "notes": "The Chromatic Luster is the boss version of the regular enemy Luster. This boss shares the same appearance with the base enemy but with magma around its head and the extremities of its limbs, and it can inflict the Burn effect. When this boss's health drops to a certain threshold, it can consume the active Burn effects to recover health."
+      },
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      }
+    ]
+  },
+  {
+    "label": "Forgotten Battlefield (South)",
+    "info": "In the Forgotten Battlefield you will have to face plenty of enemies while on your way to reach the Monolith. You will encounter a powerful Nevron, Dualliste, who has slain countless expeditioners who have wandered in this place.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Forgotten+Battlefield",
+    "x": 835,
+    "y": 1139
+  },
+  {
+    "label": "Frozen Hearts",
+    "info": "Frozen Hearts is located east of The Carousel and northeast of Monoco's Station; players will need to progress through the story to have access to this location.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Frozen+Hearts",
+    "x": 841,
+    "y": 942,
+    "bosses": [
+      {
+        "name": "Chromatic Veilleur",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Veilleur",
+        "notes": "In the area where the mansion gate is located."
+      },
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      },
+      {
+        "name": "Gargant",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Gargant",
+        "notes": "Gargant is a large creature with rocks that make up its entire body. These rocks on the Gargant have golden markings on them, which appear to have grown from underground. The Gargant is unable to move the lower half of its body, which forces it to remain in the same place throughout the fight. Gargant has a unique combat mechanic that allows it to switch its stance between Fire and Ice, which alters the color of the flame appearing at the base of its body, as well as its resistances."
+      },
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "Start from the Iced Heart Expedition Flag and work your way to the top section of this area. Run up the train carts, then grapple to the top. Before going to the main objective, which is on the east side, go west to spot the merchant and investigate the area to find the Mime standing behind a pillar. Defeat it to obtain Short Haircut (Lune)."
+      }
+    ]
+  },
+  {
+    "label": "Gestral Beach",
+    "info": "The Gestral Beach features mini-games for players to complete and earn unique rewards. There are five Gestral Beaches that can be found across The Continent, each having a different mini-game or challenge. ",
+    "wiki": "https://expedition33.wiki.fextralife.com/Gestral+Beach",
+    "x": 1094,
+    "y": 685
+  },
+  {
+    "label": "Gestral Beach",
+    "info": "The Gestral Beach features mini-games for players to complete and earn unique rewards. There are five Gestral Beaches that can be found across The Continent, each having a different mini-game or challenge. ",
+    "wiki": "https://expedition33.wiki.fextralife.com/Gestral+Beach",
+    "x": 1078,
+    "y": 819
+  },
+  {
+    "label": "Gestral Beach",
+    "info": "The Gestral Beach features mini-games for players to complete and earn unique rewards. There are five Gestral Beaches that can be found across The Continent, each having a different mini-game or challenge. ",
+    "wiki": "https://expedition33.wiki.fextralife.com/Gestral+Beach",
+    "x": 959,
+    "y": 1252
+  },
+  {
+    "label": "Gestral Beach",
+    "info": "The Gestral Beach features mini-games for players to complete and earn unique rewards. There are five Gestral Beaches that can be found across The Continent, each having a different mini-game or challenge. ",
+    "wiki": "https://expedition33.wiki.fextralife.com/Gestral+Beach",
+    "x": 711,
+    "y": 1017
+  },
+  {
+    "label": "Gestral Beach",
+    "info": "The Gestral Beach features mini-games for players to complete and earn unique rewards. There are five Gestral Beaches that can be found across The Continent, each having a different mini-game or challenge. ",
+    "wiki": "https://expedition33.wiki.fextralife.com/Gestral+Beach",
+    "x": 763,
+    "y": 1412
+  },
+  {
+    "label": "Gestral Village",
+    "info": "The Gestral Village, aside from its legendary tournament, will feature plenty of merchants that you can purchase useful Items from. Participate in the tournament, and you will gain a chance to meet with Esquie, a powerful being, who can help you in the Expedition.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Gestral+Village",
+    "x": 814,
+    "y": 1407,
+    "difficulty": "Hard",
+    "bosses": [
+      {
+        "name": "Golgra",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Golgra",
+        "notes": "Golgra is the chief of the Gestrals in Gestral Village. She is incredibly powerful and does 3 or 4 hit combo moves, some of which are very fast."
+      }
+    ]
+  },
+  {
+    "label": "Hidden Gestral Arena",
+    "info": "In the Hidden Gestral Arena, players can go up against 4 fearsome Gestral fighters and win various Pictos.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Hidden+Gestral+Arena",
+    "x": 786,
+    "y": 1418,
+    "bosses": [
+      {
+        "name": "Bertard Big Hands",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Bertard+Big+Hands"
+      },
+      {
+        "name": "Dominique Giant Feet",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Dominique+Giant+Feet"
+      },
+      {
+        "name": "Julien Tiny Head",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Julien+Tiny+Head"
+      },
+      {
+        "name": "Matthieu the Colossus",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Matthieu+the+Colossus"
+      }
+    ]
+  },
+  {
+    "label": "Inside the Monolith",
+    "info": "The Monolith is a large area where players go through tainted versions of previously explored areas and take on previously encountered enemies and new Enemies, except they are much stronger here.",
+    "wiki": "https://expedition33.wiki.fextralife.com/The+Monolith",
+    "x": 857,
+    "y": 380,
+    "bosses": [
+      {
+        "name": "The Paintress",
+        "difficulty": "Hard",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/The+Paintress",
+        "notes": "The Paintress can be encountered for the first time near the entrance of The Monolith. However, the attacks will be useless at first and will require the party to explore inside The Monolith to find her. Once you find her again and engage in a true battle, she can recognize Verso and Maelle, as if she's related to them... During the fight, The Paintress can summon Void meteors, use Gradient attacks, and cast Chroma waves to inflict damage."
+      },
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "From the Tainted Cliffs Expedition Flag, head up the stairs and get across to the other cliff. Follow the path all the way past the two forks in the path that splits to the right, keep going straight until you reach a fireplace-looking statue. Head to the left alcove and take the rope down to encounter the Mime, along with a Clair, and an Obscur. Defeat this group to obtain Voluminous Haircut (Maelle)."
+      },
+      {
+        "name": "Ultimate Sakapatate",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Ultimate+Sakapatate",
+        "notes": "The Ultimate Sakapatate is an enemy with a large shield as tall as the boss on its left hand and a red furry mace on the right hand. This boss can be encountered in the open field under the large bell on the northern outskirts of the Ancient Sanctuary. The Ultimate Sakapatate is weak to the Fire Element."
+      },
+      {
+        "name": "Chromatic Bourgeon",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Bourgeon",
+        "notes": "The Chromatic Bourgeon has an appearance similar to the Bourgeon, with gigantic limbs. The noticeable thing about this boss is that it has glowing hair growing from its back. The Chromatic Bourgeon can also spit Miasma that applies Exhaust to a target."
+      },
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      },
+      {
+        "name": "Eveque",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Eveque",
+        "notes": "Eveque is a boss that has multiple Shield instances that protect it from getting damage. This boss can summon two Abbests during the fight and primarily uses Weapon Attacks and a Spell Attack to inflict damage. Its weak point is at the center of its body and is weak to the Ice Element."
+      },
+      {
+        "name": "Clair Obscur",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Clair+Obscur",
+        "notes": "Clair Obscur is an optional boss that can be found in the Tainted Lumiere area in The Monolith. This boss shares its appearance with the Clair enemy, but it has more powerful attacks, and far more Health points."
+      },
+      {
+        "name": "Gargant",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Gargant",
+        "notes": "Gargant is a large creature with rocks that make up its entire body. These rocks on the Gargant have golden markings on them, which appear to have grown from underground. The Gargant is unable to move the lower half of its body, which forces it to remain in the same place throughout the fight. Gargant has a unique combat mechanic that allows it to switch its stance between Fire and Ice, which alters the color of the flame appearing at the base of its body, as well as its resistances."
+      },
+      {
+        "name": "Renoir",
+        "difficulty": "Hard",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Renoir",
+        "notes": "This boss can use Light-based spells and conjure a sword of light to attack."
+      }
+    ]
+  },
+  {
+    "label": "Isle of the Eyes",
+    "info": "The Isle of the Eyes is located northwest of Visages and northeast of The Reacher, players will need to locate the three eyeballs to progress through this location.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Isle+of+the+Eyes",
+    "x": 679,
+    "y": 621,
+    "notes": "In order to open the bridge leading to the boss, you need to shoot the 3 eyeballs on the island.",
+    "bosses": [
+      {
+        "name": "Chromatic Boucheclier",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Boucheclier",
+        "notes": "It has a humanoid form, with swirling patterns carved into its stone-like skin. The most prominent feature is the large, menacing face on its side, which appears to be screaming."
+      },
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      }
+    ]
+  },
+  {
+    "label": "Lost Woods",
+    "info": "The Lost Woods can be found northwest of the Gestral Village, it can be reached by either completing Yellow Harvest or by using Esquie's ability to fly to reach the location. The ability to fly can be unlocked after completing Act II of the game's main campaign.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Lost+Woods",
+    "x": 771,
+    "y": 1378
+  },
+  {
+    "label": "Lumière",
+    "info": "",
+    "wiki": "https://expedition33.wiki.fextralife.com/Lumière",
+    "x": 889,
+    "y": 1626,
+    "bosses": [
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "You'll find the Mime in Lumiere when you reach near the docks where the Gommage takes place. When you approach Maelle and the kids, go right, and you'll see a stage where other residents are performing magic. From the stage, look to your right and you'll spot the Mime standing by the corner. Defeating it will drop the Lumiere Music Record."
+      },
+      {
+        "name": "Chromatic Echassier",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Echassier",
+        "notes": "Found in Act III. Its body is covered in robes, with fabric flowing and hanging loosely around its body. The creature's back is filled with large, sharp spines. Its head is wrapped in robes. "
+      }
+    ]
+  },
+  {
+    "label": "Monoco's Station (Northeast)",
+    "info": "In Monoco's Station, players will be introduced to Monoco, a shapeshifting Gestral. With some convincing and a lot of fighting, he agrees to join your team to set off to Old Lumiere. Although Monoco's Station is a smaller location, it is filled with Grandis NPCs that players can interact with to get more information on this area, some may be found in other Locations or while exploring The Continent.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Monoco's+Station",
+    "x": 792,
+    "y": 982
+  },
+  {
+    "label": "Monoco Station (Northwest)",
+    "info": "In Monoco's Station, players will be introduced to Monoco, a shapeshifting Gestral. With some convincing and a lot of fighting, he agrees to join your team to set off to Old Lumiere. Although Monoco's Station is a smaller location, it is filled with Grandis NPCs that players can interact with to get more information on this area, some may be found in other Locations or while exploring The Continent.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Monoco's+Station",
+    "x": 771,
+    "y": 995
+  },
+  {
+    "label": "Monoco Station (South)",
+    "info": "In Monoco's Station, players will be introduced to Monoco, a shapeshifting Gestral. With some convincing and a lot of fighting, he agrees to join your team to set off to Old Lumiere. Although Monoco's Station is a smaller location, it is filled with Grandis NPCs that players can interact with to get more information on this area, some may be found in other Locations or while exploring The Continent.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Monoco's+Station",
+    "x": 787,
+    "y": 1011,
+    "bosses": [
+      {
+        "name": "Stalact",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Stalact",
+        "notes": "This boss is a beast with spiked, solid ice for its body and can be encountered in Monoco's Station. The fighting style of the Stalact is to pound its fists on the ground to create earthquakes. The Stalact will also appear as a regular enemy later on."
+      }
+    ]
+  },
+  {
+    "label": "Old Lumière (North)",
+    "info": "In Old Lumiere, due to Monoco and his need to show off to the team, the team gets separated and will have to go through this fallen city to find each other. Along the way, players will also learn more about Verso and his past. The team reunites at The Manor Gardens and confronts the issue, a familiar stranger, and Verso's past.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Old+Lumière",
+    "x": 733,
+    "y": 872,
+    "bosses": [
+      {
+        "name": "Renoir",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Renoir",
+        "notes": "This boss can use Light-based spells and conjure a sword of light to attack."
+      },
+      {
+        "name": "Chromatic Danseur",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Danseur",
+        "notes": "From the Train Station Ruins Expedition Flag, follow the path down."
+      },
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime"
+      }
+    ]
+  },
+  {
+    "label": "Old Lumière (South)",
+    "info": "In Old Lumiere, due to Monoco and his need to show off to the team, the team gets separated and will have to go through this fallen city to find each other. Along the way, players will also learn more about Verso and his past. The team reunites at The Manor Gardens and confronts the issue, a familiar stranger, and Verso's past.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Old+Lumière",
+    "x": 733,
+    "y": 920
+  },
+  {
+    "label": "Painting Workshop",
+    "info": "The Painting Workshop has 3 different entrances, interact with the Faceless Boy within those three locations to obtain an item of the Beast.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Painting+Workshop",
+    "x": 1099,
+    "y": 631
+  },
+  {
+    "label": "Painting Workshop",
+    "info": "The Painting Workshop has 3 different entrances, interact with the Faceless Boy within those three locations to obtain an item of the Beast.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Painting+Workshop",
+    "x": 884,
+    "y": 1263
+  },
+  {
+    "label": "Painting Workshop",
+    "info": "The Painting Workshop has 3 different entrances, interact with the Faceless Boy within those three locations to obtain an item of the Beast.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Painting+Workshop",
+    "x": 798,
+    "y": 1070
+  },
+  {
+    "label": "Red Woods",
+    "info": "The Red Woods features a suspicious salver that answers the expeditioners with cryptic verses upon paying certain amount of Chroma. It is highly recommended that you farm a total of 90,000 Chroma to give the full amount of Chroma in exchange for a reward.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Red+Woods",
+    "x": 765,
+    "y": 1445
+  },
+  {
+    "label": "Renoir's Drafts",
+    "info": "The entrance to Renoir's Drafts is located atop the water southeast of Visages and northeast of Old Lumiere, players will need to get through this area of strong Enemies and Bosses while making their way to The Abyss.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Renoir's+Drafts",
+    "x": 798,
+    "y": 738,
+    "bosses": [
+      {
+        "name": "Chromatic Creation",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Creation",
+        "notes": "Behind the Paint Spike"
+      },
+      {
+        "name": "Simon",
+        "difficulty": "Extremely Hard",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Simon",
+        "notes": "Simon is one of the hardest bosses in the game and is located in The Abyss, which is within Renoir's Drafts. Players will need to get stronger and progress through the story to obtain Esquie's ability to swim underwater to reach him."
+      }
+    ]
+  },
+  {
+    "label": "Sacred River",
+    "info": "The Sacred River is a location associated with Monoco's relationship side quest, it involves Monoco's character story, where he asks Verso to help him resurrect Noco. This dialogue is only available when you speak to Monoco in Camp and before you increase the relationship level to Level 6.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Sacred+River",
+    "x": 803,
+    "y": 931
+  },
+  {
+    "label": "Sirène",
+    "info": "In Sirene, players will have to go through this town of dancers and paths that split and lead to important loot and missable areas, transport through levitating podiums around this town to get to Sirene and weaken the Axon. This brings them one step closer to reaching The Paintress and obtaining the Barrier Breaking weapon to reach The Monolith.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Sirène",
+    "x": 895,
+    "y": 669,
+    "bosses": [
+      {
+        "name": "Chromatic Greatsword Cultist",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Greatsword+Cultist",
+        "notes": "The Chromatic Greatsword Cultist wields a longsword that, when this boss thrusts it towards itself, can grow even longer. This boss has a move where it will swing its sword across the group to attack everyone all at once."
+      },
+      {
+        "name": "Glissando",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Glissando",
+        "notes": "Glissando is a large creature with wrapped cloth covering its entire body, and its head appears to be a hollow shell. This boss is weak to Fire Damage. Glissando can be encountered near the Crumbling Path checkpoint in Sirene."
+      },
+      {
+        "name": "Sirène",
+        "difficulty": "Hard",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Sirene+(Boss)",
+        "notes": "Sirene is the source of the voice that can be heard singing throughout Sirene. She has the power to call forth various creatures within her realm to attack the party. This boss does not have a visible weak spot and can inflict different damage types, such as Fire, Lightning, Ice, and Light. Sirene is weak to Dark Damage."
+      },
+      {
+        "name": "Tisseur",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Tisseur",
+        "notes": "Tisseur is a large creation, which, according to Verso, works for Sirene. This boss is not hostile immediately; you can initiate a conversation that will prompt a fight. This boss can cast a curse to target a character and ensure their death within a specific turn. Tisseur can be encountered at the Sewing Atelier in Sirene."
+      },
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      },
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      },
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "In Sirene, progress through until you have been transported through a tunnel to reach an underground area. Go straight ahead and grapple through the platforms. Exit the archway and go straight ahead past a balcony to find the Mime in a small room. Defeat it to obtain Sirene Haircut (Lune)."
+      }
+    ]
+  },
+  {
+    "label": "Sirène's Dress",
+    "info": "Sirene's Dress is a sub-location located on the other side of the island where Sirene is located. Sirene's Dress is a location associated with Lune's relationship side quest, which involves Lune's character story, where she asks Verso to help her understand and learn about her parents' expedition. This dialogue is only available when you speak to Lune in Camp and before you increase the relationship level to Level 6.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Sirène's+Dress",
+    "x": 1002,
+    "y": 642,
+    "bosses": [
+      {
+        "name": "Chromatic Glissando",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Glissando",
+        "notes": "The Chromatic Glissando can be encountered inside Sirene's Dress. This boss uses attacks that move similarly to a worm, and with strips of cloth covering its entire body. The Chromatic Glissando's eyes have a bright orange glow."
+      }
+    ]
+  },
+  {
+    "label": "Sinister Cave",
+    "info": "Sinister Cave is located on the small island far east of Sirene, players will need to navigate through the dark cave and defeat the Chromatic Chalier.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Sinister+Cave",
+    "x": 1250,
+    "y": 690,
+    "bosses": [
+      {
+        "name": "Chromatic Chalier",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Chalier",
+        "notes": "This enemy is heavily armored, with a rugged appearance. It holds a large weapon, possibly an axe or hammer. It also does not have a head."
+      }
+    ]
+  },
+  {
+    "label": "Sky Island",
+    "info": "Sky Island is located on a floating isle east of the Forgotten Battlefield, players will need to defeat the Chromatic Glaise in this location.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Sky+Island",
+    "x": 1008,
+    "y": 1054,
+    "bosses": [
+      {
+        "name": "Chromatic Glaise",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Glaise",
+        "notes": "Its body is large and muscular, with the creature's arms and legs appearing powerful and capable of great force."
+      }
+    ]
+  },
+  {
+    "label": "Spring Meadows",
+    "info": "Spring Meadows is one of the early locations, an area filled with rocky hills and tons of greenery where the sun shines through. Although it is a peaceful area, enemies and bosses alike wander within the shadows. This is where players get to see one of the first emotional moments for Gustave, and where players meet Lune.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Spring+Meadows",
+    "x": 787,
+    "y": 1487,
+    "bosses": [
+      {
+        "name": "Chromatic Lancelier",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Lancelier",
+        "notes": "The Chromatic Lancelier is the boss version of the Lancelier enemies and can be encountered at the Spring Meadows. The weak point of this boss is at the top of its head, shaped like a diamond. It is also weak to the Ice Element."
+      },
+      {
+        "name": "Eveque",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Eveque",
+        "notes": "Eveque is a boss that has multiple Shield instances that protect it from getting damage. This boss can summon two Abbests during the fight and primarily uses Weapon Attacks and a Spell Attack to inflict damage. Its weak point is at the center of its body and is weak to the Ice Element."
+      },
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "From the Grand Meadow Expedition Flag, head to the path on the left. At the edge of the cliff, look up to the next cliff ahead and grapple across. Follow the path down to an arena to face a Mime, defeat the Mime to obtain Baguette Outfit (Gustave) and Baguette Haircut (Gustave)."
+      }
+    ]
+  },
+  {
+    "label": "Stone Quarry",
+    "info": "The Stone Quarry contains an NPC with a quest to get Healing Parry Pictos, ensure that you only help the White Troubadour and avoid attacking and fighting to obtain a hefty reward from the Blanche Nevron located at The Fountain for not killing all the friendly nevrons.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Stone+Quarry",
+    "x": 868,
+    "y": 1086
+  },
+  {
+    "label": "Stone Wave Cliffs Cave",
+    "info": "Stone Wave Cliffs Cave shares similarities in environment with the Stone Wave Cliffs and is only east of the Stone Wave Cliffs. Go through this cave to obtain loot, collectibles, and defeat a Chromatic Hexga.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Stone+Wave+Cliffs+Cave",
+    "x": 938,
+    "y": 1370,
+    "bosses": [
+      {
+        "name": "Chromatic Hexga",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Hexga",
+        "notes": "This is a large enemy that is faceless but instead has multiple stones throughout its body. It has arms and legs that are made of stone as well. Enemies feature a variety of hostile characters that players will encounter throughout their journey. These enemies come in different shapes and sizes, and have different attack styles and patterns."
+      }
+    ]
+  },
+  {
+    "label": "Stone Wave Cliffs (North)",
+    "info": "Now with Esquie's help, players reach Stone Wave Cliffs in search of Florrie as part of the deal to get across the sea. In Stone Wave Cliffs, players go through the rocky cliffs, some in the shape of hexagon pillars. Once Florrie is returned to Esquie, the team gets closer to reaching The Monolith, they meet someone, and an unexpected event happens to the team.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Stone+Wave+Cliffs",
+    "x": 843,
+    "y": 1359,
+    "bosses": [
+      {
+        "name": "Lampmaster",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Lampmaster",
+        "notes": "The Lampmaster is an enemy that can be encountered inside a cave in the Stone Wave Cliffs. This boss uses the power of its lamps to unleash its attack, and the visible weak spot is the longer limbs and tendrils that shoot out from its body."
+      },
+      {
+        "name": "Renoir",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Renoir",
+        "notes": "This boss has the appearance of a normal human, just like the other expeditioners, except he's notable for his cane. He can use Light-based spells and conjure a sword of light to attack."
+      },
+      {
+        "name": "Chromatic Gault",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Gault",
+        "notes": "The Chromatic Gault wields a large hammer in its right hand and can perform swinging combos to attack its targets. This boss is resistant to Lightning Damage, Light Damage, and Darkness Damage. This boss absorbs Earth Damage."
+      }
+    ]
+  },
+  {
+    "label": "Stone Wave Cliffs (South)",
+    "info": "Now with Esquie's help, players reach Stone Wave Cliffs in search of Florrie as part of the deal to get across the sea. In Stone Wave Cliffs, players go through the rocky cliffs, some in the shape of hexagon pillars. Once Florrie is returned to Esquie, the team gets closer to reaching The Monolith, they meet someone, and an unexpected event happens to the team.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Stone+Wave+Cliffs",
+    "x": 846,
+    "y": 1374,
+    "bosses": [
+      {
+        "name": "Chromatic Gault",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Gault",
+        "notes": "Behind a Paint Spike (Paint Break skill required) down from the Old Farm checkpoint."
+      },
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      }
+    ]
+  },
+  {
+    "label": "Sunless Cliffs",
+    "info": "Sunless Cliff is located on the coast southeast of Sirene, players will need to defeat the Mime inside the portal to obtain various loot depending the Expeditioner chosen to go against the Mime.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Sunless+Cliffs",
+    "x": 981,
+    "y": 787,
+    "bosses": [
+      {
+        "name": "Bald Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "From the Chroma Portal Expedition Flag, enter the portal and choose an Expeditioner to face the Mime. The first time you beat the Mime, it will drop The One, as well as a Bald Haircut of whoever was chosen to face the Mime. You can fight the Mime multiple times using different characters to get their respective Bald Hairstyle."
+      }
+    ]
+  },
+  {
+    "label": "The Carousel",
+    "info": "In The Carousel, players will need to help the Grandis by activating the Carousel so that it can move again. Players can learn more information about the location by speaking to the Grandis.",
+    "wiki": "https://expedition33.wiki.fextralife.com/The+Carousel",
+    "x": 900,
+    "y": 958
+  },
+  {
+    "label": "The Canvas",
+    "info": "The Canvas is located on a floating isle northwest of Sirene and southwest of The Monolith, players will need to head in to obtain the Manor Family Canvas.",
+    "wiki": "https://expedition33.wiki.fextralife.com/The+Canvas",
+    "x": 744,
+    "y": 535
+  },
+  {
+    "label": "The Chosen Path",
+    "info": "The Chosen Path is located on a floating isle north of The Carousel. Players will need to go through 5 canvases and take on various bosses.",
+    "wiki": "https://expedition33.wiki.fextralife.com/The+Chosen+Path",
+    "x": 862,
+    "y": 893,
+    "bosses": [
+      {
+        "name": "Glaise",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Glaise",
+        "notes": "Its body is large and muscular, with the creature's arms and legs appearing powerful and capable of great force."
+      },
+      {
+        "name": "Benisseur",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Benisseur",
+        "notes": "This is a large, humanoid creature with a distinctive appearance. Its most notable feature is the oversized, bowl-like object it carries in front of its body, which is suspended by several green and gold straps."
+      },
+      {
+        "name": "Jar",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Jar",
+        "notes": "This enemy is a large, armored figure that looks like it is made of stone. It carries a big staff as a weapon. Its head is completely covered by stone armor, with a small hole at the top."
+      },
+      {
+        "name": "Stalact",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Stalact",
+        "notes": "This boss is a beast with spiked, solid ice for its body and can be encountered in Monoco's Station. The fighting style of the Stalact is to pound its fists on the ground to create earthquakes."
+
+      },
+      {
+        "name": "Contorsionniste",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Contorsionniste",
+        "notes": "Its body is made of spiraling patterns. The head resembles a creature with a wide mouth and a single large red eye."
+      }
+    ]
+  },
+  {
+    "label": "The Crows",
+    "info": "The Crows is a sub-location located on the coast west of Visages, players will simply need to shoot the crows to trigger the boss battle.",
+    "wiki": "https://expedition33.wiki.fextralife.com/The+Crows",
+    "x": 566,
+    "y": 696,
+    "bosses": [
+      {
+        "name": "Chromatic Chapelier",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Chapelier",
+        "notes": "It is dressed in a formal suit of armor with swirling patterns covering its entire body. The creature's most striking feature is the large top hat, which has a face sculpted into it. The enemy wields a massive cleaver, which is held with both hands, ready for combat."
+      }
+    ]
+  },
+  {
+    "label": "The Fountain",
+    "info": "The Fountain is located in the middle of the mountain, west of Spring Meadows, players will need to speak with the Blanche and defeat it.",
+    "wiki": "https://expedition33.wiki.fextralife.com/The+Fountain",
+    "x": 706,
+    "y": 1461,
+    "bosses": [
+      {
+        "name": "Blanche",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Blanche"
+      }
+    ]
+  },
+  {
+    "label": "The Manor",
+    "info": "The Manor can be accessed from different locations, as doors are scattered across The Continent, leading to different rooms inside The Manor. Most rooms in The Manor are locked and can only be unlocked by going through doors found in certain locations. This page contains information on all the doors found in certain locations, along with the room that the door unlocks.",
+    "wiki": "https://expedition33.wiki.fextralife.com/The+Manor",
+    "x": 1029,
+    "y": 1466
+  },
+  {
+    "label": "The Manor",
+    "info": "The Manor can be accessed from different locations, as doors are scattered across The Continent, leading to different rooms inside The Manor. Most rooms in The Manor are locked and can only be unlocked by going through doors found in certain locations. This page contains information on all the doors found in certain locations, along with the room that the door unlocks.",
+    "wiki": "https://expedition33.wiki.fextralife.com/The+Manor",
+    "x": 785,
+    "y": 1254
+  },
+  {
+    "label": "The Monolith",
+    "info": "Go through The Monolith to get closer and closer to The Paintress and learn about her lore. The Monolith is a large area where players go through tainted versions of previously explored areas and take on previously encountered enemies and new Enemies, except they are much stronger here.",
+    "wiki": "https://expedition33.wiki.fextralife.com/The+Monolith",
+    "x": 841,
+    "y": 401
+  },
+  {
+    "label": "The Reacher",
+    "info": "The Reacher is located on the coast west of Visages. Players will need to progress through the story and unlock Esquie's ability to fly to reach this location. This location only unlocks by having a conversation with Maelle at Camp. Before you can rank up to Relationship Level 6, talk to her to trigger the dialogue cutscene which will also allow you to enter The Reacher. Alicia is found at the end of the location as she is the primary boss you need to fight.",
+    "wiki": "https://expedition33.wiki.fextralife.com/The+Reacher",
+    "x": 571,
+    "y": 669,
+    "bosses": [
+      {
+        "name": "Alicia",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Alicia",
+        "notes": "Alicia can be found on the top of The Reacher; players will have to progress through the story to obtain Esquie's ability to fly, and also speak with Maelle at camp right before reaching a level 6 on your relationship level with her to unlock the conversation to begin her side quest."
+      },
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "From the Ladder Area Expedition Flag, cross the bridge and take the rope down on the far left to find the Mime. Defeat the Mime to obtain Baguette Outfit (Maelle) and Baguette Haircut (Maelle)."
+      },
+      {
+        "name": "Petank",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Petank",
+        "notes": "Petank is a miniature enemy with the appearance of a destroyed orb with 2 legs. When you first encounter a Petank, it will try to flee, and you need to run after it and initiate the fight."
+      },
+      {
+        "name": "Chromatic Braseleur",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Braseleur",
+        "notes": "Its body appears semi-transparent, with a glowing, pulsating energy coursing through it. The back of its form is spiky and torn, revealing a mix of glowing and icy features. It wields a long, staff-like weapon, which it holds firmly with both hands, ready to strike."
+      }
+    ]
+  },
+  {
+    "label": "The Small Bourgeon",
+    "info": "In The Small Bourgeon, players find a small bourgeon who only wishes to see his mistress up above.",
+    "wiki": "https://expedition33.wiki.fextralife.com/The+Small+Bourgeon",
+    "x": 792,
+    "y": 1445
+  },
+  {
+    "label": "Twilight Quarry",
+    "info": "The Twilight Quarry is a location that does not have any areas to explore and only holds a Music Record.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Twilight+Quarry",
+    "x": 844,
+    "y": 1450
+  },
+  {
+    "label": "Visages",
+    "info": "Visages will feature three areas: Joyful Vale, Anger Vale, and Sadness Vale. In these areas, you have to defeat three masks in any order to weaken the Axon encountered in this area, which is the Mask Keeper.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Visages",
+    "x": 733,
+    "y": 701,
+    "bosses": [
+      {
+        "name": "Mask Keeper",
+        "difficulty": "Hard",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mask+Keeper",
+        "notes": "The Mask Keeper can be encountered in Visages after defeating the boss in the area, which will play a cutscene that will reveal the true identity of the Mask Keeper. This enemy is weak to the Fire and Dark Damage."
+      },
+      {
+        "name": "Visages",
+        "difficulty": "Hard",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Visages+(Boss)",
+        "notes": "Visages is a boss that can be encountered in Visages after defeating the 3 floating head figures, which are Jovial Moissonneuse, Seething Boucheclier, and Sorrowful Chapelier. This boss is made up of floating and detached slabs of stone that make up its entire body. It is weak to Fire and Dark Damage."
+      },
+      {
+        "name": "Seething Boucheclier",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Seething+Boucheclier",
+        "notes": "The Seething Boucheclier can be found in Visages. This is an enemy with the appearance of a floating head figure, it is guarded by a variety of enemies that act as a shield."
+      },
+      {
+        "name": "Sorrowful Chapelier",
+        "optional": false,
+        "wiki": "https://expedition33.wiki.fextralife.com/Sorrowful+Chapelier",
+        "notes": "The Sorrowful Chapelier can be found in Visages. This is an enemy with the appearance of a floating head figure that is guarded by a variety of enemies that act as a shield. This enemy can apply Exhaust to a target."
+      },
+      {
+        "name": "Jovial Moissonneuse",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Jovial+Moissonneuse",
+        "notes": "The Jovial Moissonneuse can be found in Visages. This is an enemy with the appearance of a floating head figure that is guarded by a variety of enemies that act as a shield."
+      },
+      {
+        "name": "Chromatic Ramasseur",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Ramasseur",
+        "notes": "The Chromatic Ramasseur will continuously attack the group, leaving you with limited attack options to either Parry, Dodge, or Avoid his moves at first. It can perform a combo with a Nevron arm and pull off a Mortal Hit that can take out a target with one hit. Found in the Path of Sadness." 
+      },
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "Located past the Joyous Vale fast travel point. To find it, travel left and continue forward until you reach the cliff edge, where the Mime is hiding behind a tree."
+      }
+    ]
+  },
+  {
+    "label": "White Sands",
+    "info": "White Sands is located east of the Forgotten Battlefield, players will be able to obtain a few items here and learn a small detail about The Manor.",
+    "wiki": "https://expedition33.wiki.fextralife.com/White+Sands",
+    "x": 1105,
+    "y": 1134
+  },
+  {
+    "label": "White Tree",
+    "info": "White Tree is a sub-location located in the west side of the main area of Act I. This location does not have any areas to explore and only contains an Expedition Journal and a Music Record.",
+    "wiki": "https://expedition33.wiki.fextralife.com/White+Tree",
+    "x": 728,
+    "y": 1375
+  },
+  {
+    "label": "Yellow Harvest",
+    "info": "Yellow Harvest is a sub-location located northwest of the Hidden Gestral Arena, where players can explore, pick up collectible items and extra Tints, as well as take on enemies in this yellow autumn forest.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Yellow+Harvest",
+    "x": 781,
+    "y": 1386,
+    "bosses": [
+      {
+        "name": "Mime",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Mime",
+        "notes": "From the Expedition 68 flag, go around the lake on the right and look for a opening on the right where you can crawl under."
+      },
+      {
+        "name": "Glaise",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Glaise",
+        "notes": "Its body is large and muscular, with the creature's arms and legs appearing powerful and capable of great force."
+      },
+      {
+        "name": "Chromatic Orpheline",
+        "optional": true,
+        "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Orpheline",
+        "notes": "From the area where you fought Glaise, climb up the rocks and drop down into a dark cave, there is a path that leads deeper into the cave."
+      }
+    ]
+  }
+]

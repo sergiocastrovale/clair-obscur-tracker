@@ -1,0 +1,144 @@
+[
+  {
+    "x": 647,
+    "y": 776,
+    "label": "Mime (2x)",
+    "info": "The Mime can be found throughout the Continent, wearing a striped black-and-white shirt and overalls. This enemy uses its mime abilities to protect itself from incoming damage and can be quite deadly in battle with its fast attacks. When fighting the Mime, try to fill its break bar as fast as possible to stun or break the enemy. Breaking a Mime enemy makes it vulnerable to the Expeditioner's attacks. It does not have any weaknessess.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Mime"
+  },
+  {
+    "x": 1008,
+    "y": 931,
+    "label": "Chromatic Goblu",
+    "info": "Found on an island only accessible by flying. This area is northeast of the Coastal Cave. It is weak against Lightning Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Goblu"
+  },
+  {
+    "x": 1078,
+    "y": 1503,
+    "label": "Chromatic Benisseur",
+    "info": "The Chromatic Benisseur can be encountered by exploring The Continent, East of Stone Wave Cliffs Cave. It is weak against Dark and Ice Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Benisseur"
+  },
+  {
+    "x": 965,
+    "y": 1359,
+    "label": "Thunder Eveque",
+    "info": " The Thunder Eveque is a variation of the Eveque that has the power to inflict Lightning Damage to its targets. This boss can be found by exploring The Continent, east of the Stone Wave Cliffs Cave entrance. The Thunder Eveque is weak to Earth damage, but is resistant to Dark Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Thunder+Eveque"
+  },
+  {
+    "x": 722,
+    "y": 1498,
+    "label": "Chromatic Aberration",
+    "info": "The Chromatic Aberration is a creation made with dark ink and disconnected body parts. This boss uses a longsword to inflict damage against its target. It can be encountered by exploring The Continent, Southeast of The Fountain. It is weak against Dark Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Aberration"
+  },
+  {
+    "x": 577,
+    "y": 797,
+    "label": "Chromatic Moissonneuse",
+    "info": "The Chromatic Moissonneuse is an optional boss that can be encountered in The Continent, found in an isolated island southwest of Visages. It is weak agains Dark and Fire Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Moissonneuse"
+  },
+  {
+    "x": 641,
+    "y": 974,
+    "label": "Bourgeon",
+    "info": "Bourgeon is a tall creature that has extra-long limbs and towers over characters due to being as tall as the mountains in the Flying Waters. The Bourgeon can spit Miasma, which applies Exhaust to the targets that it hits. This boss is weak to Lightning Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Bourgeon"
+  },
+  {
+    "x": 841,
+    "y": 1049,
+    "label": "Chromatic Demineur",
+    "info": "The Chromatic Demineur shares its appearance with the regular enemy Demineur, and can also use the floating mine to attack its targets and inflict Burn effects. This boss can be found by exploring The Continent, north of the Stone Quarry. It is weak to Ice Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Demineur"
+  },
+  {
+    "x": 878,
+    "y": 1049,
+    "label": "Frost Eveque",
+    "info": "The Frost Eveque is a variation of the Eveque that has the power to inflict Cold Damage to its targets. This boss can be found by exploring The Continent, south from Stone Quarry entrance. The Frost Eveque is weak to Lightning damage, but is resistant to Dark Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Frost+Eveque"
+  },
+  {
+    "x": 949,
+    "y": 1049,
+    "label": "Grosse Tete",
+    "info": "The Grosse Tete is a rock creature with a large mask that covers the central part of its body. This boss can be found by exploring The Continent, in front of the Coastal Cave entrance. The Grosse Tete is weak to Dark damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Grosse+Tete"
+  },
+  {
+    "x": 1029,
+    "y": 1038,
+    "label": "Chromatic Reaper Cultist",
+    "info": "The Chromatic Reaper Cultist is an optional boss that can be encountered by exploring The Continent, on an island northeast of the Coastal Cave. To reach this area, you'll need to progress the story far enough to recruit Esquie and unlock the ability to destroy coral reefs. It is weak against Dark Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Reaper+Cultist"
+  },
+  {
+    "x": 1024,
+    "y": 1145,
+    "label": "Serpenphare",
+    "difficulty": "Very Hard",
+    "info": "The Serpenphare is a floating enemy with pink tail and various plants growing on its body. This boss has a unique mechanic that allows it to absorb all APs of the party, which allows it to attack multiple times. This boss can be found southeast of the Boat Graveyard. The Serpenphare is weak to Lightning Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Serpenphare"
+  },
+  {
+    "x": 868,
+    "y": 1188,
+    "label": "Bourgeon",
+    "info": "Bourgeon is a tall creature that has extra-long limbs and towers over characters due to being as tall as the mountains in the Flying Waters. The Bourgeon can spit Miasma, which applies Exhaust to the targets that it hits. This boss is weak to Lightning Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Bourgeon"
+  },
+  {
+    "x": 733,
+    "y": 1220,
+    "label": "Sprong",
+    "difficulty": "Hard",
+    "info": "Sprong is a giant creature that can be found in the water. It is so tall that it can stand from the ocean floor and attack the expedition on land. This boss can be found East of the Stone Wave Cliffs Cave. Sprong is weak to Lightning Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Sprong"
+  },
+  {
+    "x": 1029,
+    "y": 1284,
+    "label": "Chromatic Petank",
+    "info": "Chromatic Petank is a floating enemy with a pink tail and various plants growing on its body. This boss has a unique mechanic that allows it to absorb all APs of the party, which allows it to attack multiple times. This boss can be found by exploring The Continent, Southeast of the Boat Graveyard. The Chromatic Petank is weak to Lightning Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Petank"
+  },
+  {
+    "x": 992,
+    "y": 1498,
+    "label": "Chromatic Portier",
+    "info": "The Chromatic Portier is a boss that shares its appearance with the regular enemy, Portier, except it is more powerful. This boss holds on to two separate shields in each hand, but it can combine them together to form one shield that can protect it from incoming attacks, or use it offensively to attack its targets.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Portier"
+  },
+  {
+    "x": 668,
+    "y": 1412,
+    "label": "Chromatic Jar",
+    "info": " The Chromatic Jar is a boss that can be encountered by exploring The Continent, southwest of where the White Tree is located. It is weak to Fire, Earth, Lightning and Ice Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Jar"
+  },
+  {
+    "x": 787,
+    "y": 1386,
+    "label": "Chromatic Bruleur",
+    "info": "The Chromatic Bruler has a large red shell on its back and uses a large hammer with that looks like an anchor for its weapon. This boss is weak to the Fire Element.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Chromatic+Bruleur"
+  },
+  {
+    "x": 851,
+    "y": 1391,
+    "label": "Bourgeon",
+    "info": "Bourgeon is a tall creature that has extra-long limbs and towers over characters due to being as tall as the mountains in the Flying Waters. The Bourgeon can spit Miasma, which applies Exhaust to the targets that it hits. This boss is weak to Lightning Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Bourgeon"
+  },
+  {
+    "x": 895,
+    "y": 1461,
+    "label": "Bourgeon",
+    "info": "Bourgeon is a tall creature that has extra-long limbs and towers over characters due to being as tall as the mountains in the Flying Waters. The Bourgeon can spit Miasma, which applies Exhaust to the targets that it hits. This boss is weak to Lightning Damage.",
+    "wiki": "https://expedition33.wiki.fextralife.com/Bourgeon"
+  }
+]

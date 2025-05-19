@@ -1,0 +1,2697 @@
+[
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448445\" target=\"_blank\">Expedition 40</a>",
+    "name": "Expedition 40",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> On the beach near the tents and merchant</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448510\" target=\"_blank\">Expedition 47</a>",
+    "name": "Expedition 47",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> On the side of the road amongst the ruined camp</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448541\" target=\"_blank\">Expedition 43</a>",
+    "name": "Expedition 43",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> On the ground in the ruined camp</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448584\" target=\"_blank\">Expedition 62</a>",
+    "name": "Expedition 62",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Behind the rocks, only accessible with Esquie</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448609\" target=\"_blank\">Expedition 64</a>",
+    "name": "Expedition 64",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> In the ruined camp on the beach</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448801\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Expedition 81",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Automatically obtained within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448812\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Expedition 68",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448814\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Expedition 63",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448833\" target=\"_blank\">Esquie's Nest</a>",
+    "name": "Expedition 66",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448435\">Esquie's Nest</a> - after convincing Esquie to join the party, head across the chasm and find this entry on the ledge near the ruined camp</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448834\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Expedition 78",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - climb the rope to the ledge above the Hexga to find this entry amongst dead Expeditioners</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448838\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Expedition 50",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - Past the Paintress Shrine rest point, in a large cave with floating lamps, at a cliff's edge overlooking the ocean below</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448843\" target=\"_blank\">Forgotten Battlefield - South Entrance</a>",
+    "name": "Expedition 57",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - on a grassy hill near a corpse with a trumpet stuck on its head</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448850\" target=\"_blank\">Monoco's Station - Northeast Entrance</a>",
+    "name": "Expedition 65",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found near <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448428\">Monoco's Station - Northeast Entrance</a>, inside the station</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448852\" target=\"_blank\">Old Lumiere - South EntranceOld Key</a>",
+    "name": "Survivor",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448430\">Old Lumiere - South Entrance</a> - after your party is separated and you gain control of the party of 2, drop down onto the big pipe, and further down through the hole.  Use the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448923\">Old Key</a> to open the locked gate and retrieve the entry</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449484\" target=\"_blank\">Gestral Village</a>",
+    "name": "Expedition 52",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448439\">Gestral Village</a> - on the straw mat near the corpse close to the Arena</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449700\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Expedition 56",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - At the second clearing. On the left side of the slope. In front of the street lamp with a sword stuck in it.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449705\" target=\"_blank\">The Small Bourgeon</a>",
+    "name": "Expedition 53",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448574\">The Small Bourgeon</a> - After passing Little Bourgeon</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449711\" target=\"_blank\">Crushing CavernGiant Sapling</a>",
+    "name": "Expedition 45",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448589\">Crushing Cavern</a> - You can reach it by following the path that opens behind the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449710\">Giant Sapling</a> boss.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449714\" target=\"_blank\">White Tree</a>",
+    "name": "Expedition 36",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448592\">White Tree</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449720\" target=\"_blank\">Stone Wave Cliffs Cave</a>",
+    "name": "Expedition 54",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448597\">Stone Wave Cliffs Cave</a> - In the area where the boss is</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449729\" target=\"_blank\">Forgotten Battlefield</a>",
+    "name": "Expedition 41",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield</a> - After passing through the big gate, you will encounter an NPC named Fading Woman. From where this NPC is, go to the right towards the wooden reinforced trenches.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449734\" target=\"_blank\">Stone Quarry</a>",
+    "name": "Expedition 48",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448478\">Stone Quarry</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449753\" target=\"_blank\">Visages</a>",
+    "name": "Unknown",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Anger.  Inside The Manor</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449755\" target=\"_blank\">Visages</a>",
+    "name": "Expedition 69",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Joy</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449760\" target=\"_blank\">Visages</a>",
+    "name": "Expedition 39",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Sadness</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449885\" target=\"_blank\">The Crows</a>",
+    "name": "Expedition 34",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448451\">The Crows</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449889\" target=\"_blank\">Sirene</a>",
+    "name": "Expedition 55",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449906\" target=\"_blank\">Sirene</a>",
+    "name": "Expedition 67",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=450897\" target=\"_blank\">Falling Leaves</a>",
+    "name": "Expedition 35",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448523\">Falling Leaves</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452795\" target=\"_blank\">Sirene's Dress</a>",
+    "name": "Expedition 46",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452080\">Sirene's Dress</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452805\" target=\"_blank\">Gestral Beach</a>",
+    "name": "Expedition 37",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448465\">Gestral Beach</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452821\" target=\"_blank\">Old Lumiere</a>",
+    "name": "Expedition 42",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448431\">Old Lumiere</a> - From the Manor Gardens expedition flag, head to the upper right corner. Follow the path and take the rope down.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452825\" target=\"_blank\">Old Lumiere</a>",
+    "name": "Renoir",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448431\">Old Lumiere</a> - Inside the Manor. It's in the garden next to where we fought with Renoir.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452830\" target=\"_blank\">Falling Leaves</a>",
+    "name": "Expedition 49",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448523\">Falling Leaves</a> - After following the path through the door behind the young boy.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452843\" target=\"_blank\">Frozen Hearts</a>",
+    "name": "Expedition 51",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448496\">Frozen Hearts</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452857\" target=\"_blank\">Julie</a>",
+    "name": "Julie",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> At the campsite</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452870\" target=\"_blank\">Yellow Harvest</a>",
+    "name": "Expedition 59",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448582\">Yellow Harvest</a> -  in the cave with Yellow Spire Wrecks flag - follow the left path</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452872\" target=\"_blank\">Yellow Harvest</a>",
+    "name": "Expedition 44",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448582\">Yellow Harvest</a> -  from the Expedition 68 rest point walk around the lake to the right and you'll find it near an enemy</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452874\" target=\"_blank\">Yellow Harvest</a>",
+    "name": "Expedition 38",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448582\">Yellow Harvest</a> - after the second flag go up the ramp to the right</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454437\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Expedition 70",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454438\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Aline",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a> - Inside the Manor.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454585\" target=\"_blank\">Expedition 84</a>",
+    "name": "Expedition 84",
+    "category": "journal-entry",
+    "info": "<p>Next to a river, far right of Blanche</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454675\" target=\"_blank\">The Reacher</a>",
+    "name": "Expedition 61",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448452\">The Reacher</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454696\" target=\"_blank\">Renoir's DraftsSimon</a>",
+    "name": "Simon",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449887\">Renoir's Drafts</a> - can be found in the arena after defeating the superboss <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454695\">Simon</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455130\" target=\"_blank\">Old Lumiere</a>",
+    "name": "Expedition 58",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Automatically added to your collection after completing the main story quest through <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448431\">Old Lumiere</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448447\" target=\"_blank\">Isle of the Eyes</a>",
+    "name": "Isle of the Eyes",
+    "category": "journal-entry",
+    "info": "<p>Flying required, Chromatic Boucheclier.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448466\" target=\"_blank\">The Chosen Path</a>",
+    "name": "The Chosen Path",
+    "category": "journal-entry",
+    "info": "<p>Requires flight</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449887\" target=\"_blank\">Renoir's Drafts</a>",
+    "name": "Renoir's Drafts",
+    "category": "journal-entry",
+    "info": "<p>Access requires Esquie's diving ability</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452866\" target=\"_blank\">Dark Gestral Arena</a>",
+    "name": "Dark Gestral Arena",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> a floating isle</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449767\" target=\"_blank\">Lost Gestral</a>",
+    "name": "Lost Gestral",
+    "category": "journal-entry",
+    "info": "<p>Right before Esquies Nest</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=453345\" target=\"_blank\">Lost Gestral</a>",
+    "name": "Lost Gestral",
+    "category": "journal-entry",
+    "info": "<p>On a floating island (flying Esquie required)</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448922\" target=\"_blank\">Mime</a>",
+    "name": "Lumiere",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Obtained from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448921\">Mime</a></p>\n<p><strong>Alternative location:</strong> Obtained in the Opera House in Act 3, behind the piano.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448930\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Nocturne Pour Un Masque De Tristesse",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within The Manor, accessed from within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - after rescuing Maelle, head to the dining room upstairs and pull the four switches.  A secret passage will open to the left of the fireplace.  Find the record in a crate after traversing the passage.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449706\" target=\"_blank\">Ancient Gestral City</a>",
+    "name": "Lights of the Past",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448599\">Ancient Gestral City</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449707\" target=\"_blank\">Stone Wave Cliffs - North EntranceLampmaster</a>",
+    "name": "Gustave",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448587\">Stone Wave Cliffs - North Entrance</a> - You'll find it when you return here after defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448839\">Lampmaster</a>. Near the north entrance.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449708\" target=\"_blank\">Twilight Quarry</a>",
+    "name": "Un 33 Décembre à Lumière",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448558\">Twilight Quarry</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449709\" target=\"_blank\">The Meadows</a>",
+    "name": "Our Painted Family",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448608\">The Meadows</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449715\" target=\"_blank\">White Tree</a>",
+    "name": "Honeymoon in Lumière",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448592\">White Tree</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449722\" target=\"_blank\">Blades' Graveyard</a>",
+    "name": "Reverence",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448529\">Blades' Graveyard</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449736\" target=\"_blank\">Boat Graveyard</a>",
+    "name": "Alicia's Birthday Party",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448471\">Boat Graveyard</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449752\" target=\"_blank\">Visages</a>",
+    "name": "Verso",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Anger. Inside the mansion</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449882\" target=\"_blank\">Sinister Cave</a>",
+    "name": "Nocturne pour Lumière",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448443\">Sinister Cave</a> - Go up. Jump down from the small gap between the rock.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=450903\" target=\"_blank\">Falling Leaves</a>",
+    "name": "Alicia",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448523\">Falling Leaves</a> - Inside the Manor</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452826\" target=\"_blank\">Old Lumiere</a>",
+    "name": "Renoir",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448431\">Old Lumiere</a> - Inside the Manor. It's in the garden next to where we fought with Renoir.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452829\" target=\"_blank\">Falling LeavesScavenger</a>",
+    "name": "Until Next Life",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448523\">Falling Leaves</a> - After defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452828\">Scavenger</a>, go back and talk to Young Boy.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452840\" target=\"_blank\">Frozen Hearts</a>",
+    "name": "Clea! Don't Pull Your Sister's Hair!",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448496\">Frozen Hearts</a> - Inside the Manor.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452851\" target=\"_blank\">White Sands</a>",
+    "name": "Aline",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448539\">White Sands</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452865\" target=\"_blank\">Flying Casino</a>",
+    "name": "Reveries dans Paris",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448537\">Flying Casino</a> - Behind the casino building</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452867\" target=\"_blank\">Lost Woods</a>",
+    "name": "Aline's Glasshouse",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448590\">Lost Woods</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452885\" target=\"_blank\">The Manor</a>",
+    "name": "Forlorn",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452886\">The Manor</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=453334\" target=\"_blank\">Le Grand Café de Lumière</a>",
+    "name": "Le Grand Café de Lumière",
+    "category": "journal-entry",
+    "info": "<p>Walk to the left side as you approach the carousel, and you'll see an alleyway where you'll find the Record</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=453335\" target=\"_blank\">Citrelo</a>",
+    "name": "Children of Lumière",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Can be purchased from the merchant <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452884\">Citrelo</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454439\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "L'Amour d'une Mere",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>\n<ul>\n<li>Inside the Manor.</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455142\" target=\"_blank\">Lettre a Maelle</a>",
+    "name": "Lettre a Maelle",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> May be obtained following a cutscene at Camp</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455276\" target=\"_blank\">Renoir's Drafts</a>",
+    "name": "Endless Light",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449887\">Renoir's Drafts</a> - from the entrance head to the left, up the grapple, then drop down the ledge to the right to find the record in the open mouth of a giant mask</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448456\" target=\"_blank\">Mime x2</a>",
+    "name": "Mime x2",
+    "category": "journal-entry",
+    "info": "<p><strong>Rewards:</strong></p>\n<ul>\n<li>Voluminous (Lune haircut)</li>\n<li>Voluminous (Sceil haircut)</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448817\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found on the hill with blue flowers within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448819\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Petank",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448830\" target=\"_blank\">Esquie's Nest</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448435\">Esquie's Nest</a> - on the shore of the lake below</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448831\" target=\"_blank\">Esquie's Nest</a>",
+    "name": "Petank",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448435\">Esquie's Nest</a> - on the shore of the lake below</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448841\" target=\"_blank\">Forgotten Battlefield - South Entrance</a>",
+    "name": "Petank",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - After the Expedition Flag \"Battlefield\"</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448921\" target=\"_blank\">Mime</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Find this enemy at the dead end to the right of the stage</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449460\" target=\"_blank\">Flying Waters - South EntranceAbysseram (Gustave/Verso)Augmented Counter I</a>",
+    "name": "Bourgeon",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - near the Lumieran Streets rest point, down the path</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449462\">Abysseram (Gustave/Verso)</a></li>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449463\">Augmented Counter I</a></li>\n<li>Chroma Catalyst </li>\n<li>Bourgeon Skin</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449461\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a> - After leaving the ruined building, follow the path on the left</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449466\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Chromatic Troubadour",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449699\" target=\"_blank\">Abbest Cave</a>",
+    "name": "Chromatic Abbest",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448437\">Abbest Cave</a></p>\n<p><strong>Rewards:</strong> </p>\n<ul>\n<li>First Offensive Picto</li>\n<li>Resplendent Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449704\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Petank",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - In the farming area</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449710\" target=\"_blank\">Crushing Cavern</a>",
+    "name": "Giant Sapling",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448589\">Crushing Cavern</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Solidifying</li>\n<li>Polished Chroma Catalyst x1</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449719\" target=\"_blank\">Stone Wave Cliffs Cave</a>",
+    "name": "Chromatic Hexga",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448597\">Stone Wave Cliffs Cave</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Energising Revive</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449730\" target=\"_blank\">Forgotten BattlefieldLusteson (Sceil)Energising Parry</a>",
+    "name": "Chromatic Luster",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield</a> - After passing through the big gate, you will encounter an NPC named Fading Woman. From where this NPC is, go to the right towards the wooden reinforced trenches.</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455111\">Lusteson (Sceil)</a></li>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455112\">Energising Parry</a></li>\n<li>Polished Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n<li>2963 Chroma</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449745\" target=\"_blank\">Esoteric Ruins</a>",
+    "name": "Portier",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448459\">Esoteric Ruins</a> - After delivering the [Wood Boards], the spirit you encountered at the entrance turns into a boss. (Fighting is optional).</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Colour of Lumina x3</li>\n<li>Polished Chroma Catalyst x1</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449756\" target=\"_blank\">Visages</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Joy. Next to where the expedition record was found.</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Baguette (Verso outfit)</li>\n<li>Baguette (Verso haircut)</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449761\" target=\"_blank\">Visages</a>",
+    "name": "Chromatic Ramasseur",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Sadness</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Augmented Counter II</li>\n<li>Resplendent Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449881\" target=\"_blank\">Sinister Cave</a>",
+    "name": "Chromatic Chalier",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448443\">Sinister Cave</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Chalium (Weapon for Maelle)</li>\n<li>Resplendent Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449892\" target=\"_blank\">Sirene</a>",
+    "name": "Petank",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Resplendent Chroma Catalyst x5</li>\n<li>Recoat x1</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449898\" target=\"_blank\">Sirene</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449902\" target=\"_blank\">Sirene</a>",
+    "name": "Petank",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Resplendent Chroma Catalyst x5</li>\n<li>Recoat </li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=450898\" target=\"_blank\">Falling Leaves</a>",
+    "name": "Chromatic Ballet",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448523\">Falling Leaves</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Blizzon (Weapon for Sciel)</li>\n<li>Resplendent Chroma Catalyst x6</li>\n<li>Colour of Lumina x15</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=450915\" target=\"_blank\">Sky Island</a>",
+    "name": "Chromatic Glaise",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448538\">Sky Island</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Urnaro (Weapon for Monoco)</li>\n<li>Grandiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452797\" target=\"_blank\">Sirene's Dress</a>",
+    "name": "Chromatic Glissando",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452080\">Sirene's Dress</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Choralim (Weapon for Lune)</li>\n<li>Ballaro (Weapon for Monoco)</li>\n<li>Grandiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452803\" target=\"_blank\">SireneSireso (Verso)</a>",
+    "name": "Chromatic Greatsword Cultist",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455143\">Sireso (Verso)</a></li>\n<li>Resplendent Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452809\" target=\"_blank\">Chromatic Goblu</a>",
+    "name": "Chromatic Goblu",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Only accessible by flying.</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Gobluson (Weapon for Sciel)</li>\n<li>Grandoiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x2</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452811\" target=\"_blank\">Isle of the Eyes</a>",
+    "name": "Chromatic Boucheclier",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448447\">Isle of the Eyes</a> - In order to open the bridge leading to the boss, you need to shoot the 3 eyeballs on the island.</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Facesum (Weapon for Maelle)</li>\n<li>Grandiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452812\" target=\"_blank\">Isle of the Eyes</a>",
+    "name": "Petank",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448447\">Isle of the Eyes</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452814\" target=\"_blank\">The Crows</a>",
+    "name": "Chromatic Chapelier",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448451\">The Crows</a> - You need to kill all the crows for the boss to appear.</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Minason (Weapon for Sciel)</li>\n<li>Shielding Death</li>\n<li>Grandiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452817\" target=\"_blank\">Old LumiereDanseso (Gustave/Verso)Revive Paradox</a>",
+    "name": "Chromatic Danseuse",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448431\">Old Lumiere</a> - From the Train Station Ruins Expedition Flag, follow the path down.</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455132\">Danseso (Gustave/Verso)</a></li>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455133\">Revive Paradox</a></li>\n<li>Polished Chroma Catalyst x6</li>\n<li>Colour of Lumina x15</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452823\" target=\"_blank\">Old Lumiere</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448431\">Old Lumiere</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Braid (Haircut for Sciel)</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452828\" target=\"_blank\">Falling Leaves</a>",
+    "name": "Scavenger",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448523\">Falling Leaves</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Scaverim (Weapon for Lune)</li>\n<li>Resplendent Chroma Catalyst x3</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452834\" target=\"_blank\">Frozen Hearts</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448496\">Frozen Hearts</a> - Close to [Verogo]</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Short (Haircut for Lune)</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452837\" target=\"_blank\">Frozen Hearts</a>",
+    "name": "Petank",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448496\">Frozen Hearts</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Grandişose Chroma Catalyst x5</li>\n<li>Recoat x1</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452841\" target=\"_blank\">Frozen Hearts</a>",
+    "name": "Chromatic Veilleur",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448496\">Frozen Hearts</a> - In the area where the mansion gate is located</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Energising Burn (Picto - Level 22)</li>\n<li>Grandiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452861\" target=\"_blank\">Crimson Forest</a>",
+    "name": "Chromatic Gold Chevaliere",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448527\">Crimson Forest</a> - Activate 3 statues to fight against the boss</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Perilous Parry</li>\n<li>Resplendent Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n<li>x14,677 Chroma</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452868\" target=\"_blank\">Yellow Harvest</a>",
+    "name": "Chromatic Orphelin",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448582\">Yellow Harvest</a> - From the area where you fought Glaise, climb up the rocks and drop down into a dark cave, there is a path that leads deeper into the cave.</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Kralim (Weapon for Lune)</li>\n<li>Polished Chroma Catalyst x6</li>\n<li>Colour of Lumina x15</li>\n<li>x7,989 Chroma</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452869\" target=\"_blank\">Yellow Harvest</a>",
+    "name": "Glaise",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448582\">Yellow Harvest</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Plenum (Weapon for Maelle)</li>\n<li>Energising Attack I</li>\n<li>Polished Chroma Catalayst x3</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452871\" target=\"_blank\">Yellow Harvest</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448582\">Yellow Harvest</a> - from the Expedition 68 flag, go around the lake on the right and look for a opening on the right where you can crawl under</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Braid (A Haircut for Maelle)</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452878\" target=\"_blank\">Chromatic Aberration</a>",
+    "name": "Chromatic Aberration",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Can be found on a floating island.  Requires flying Esquie for access </p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Brumaro (Verso Weapon)</li>\n<li>Longer Burn (Pictos)</li>\n<li>x2 Grandiose Chroma Catalyst</li>\n<li>x5 Colour of Lumina</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=453340\" target=\"_blank\">Thunder Eveque</a>",
+    "name": "Thunder Eveque",
+    "category": "journal-entry",
+    "info": "<p><strong>Rewards:</strong></p>\n<ul>\n<li>Breaking Death (Picto)</li>\n<li>Grandiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=453358\" target=\"_blank\">Chromatic Benisseur</a>",
+    "name": "Chromatic Benisseur",
+    "category": "journal-entry",
+    "info": "<p><strong>Rewards:</strong></p>\n<ul>\n<li>Benisim (Weapon for Lune)</li>\n<li>Grandiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454421\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Eveque",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Cleansing Tint</li>\n<li>Resplendent Chroma Catalyst x1</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454424\" target=\"_blank\">Inside the MonolithDreameso</a>",
+    "name": "Clair Obscur",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455156\">Dreameso</a> (Weapon for Verso)</li>\n<li>Breaking Attack</li>\n<li>Resplendent Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454425\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Gargant",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Resplendent Chroma Catalyst x3</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454426\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Ultimate Sakapatate",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454427\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Chromatic Bourgeon",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Bourgelon (Weapon for Sciel)</li>\n<li>Bourgeon Skin x1</li>\n<li>Resplendent Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454442\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454443\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Petank",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454562\" target=\"_blank\">Sunless Cliffs</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448464\">Sunless Cliffs</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>The One (Picto)</li>\n<li>Bald (Haircut for whoever you won the fight with)</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454573\" target=\"_blank\">Endless Night Sanctuary</a>",
+    "name": "Chromatic Cruler",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452779\">Endless Night Sanctuary</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Cruleram (Weapon for Verso)</li>\n<li>Quick Break (Picto)</li>\n<li>Grandiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454578\" target=\"_blank\">Endless Night Sanctuary</a>",
+    "name": "Petank",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452779\">Endless Night Sanctuary</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Grandiose Chroma Catalyst x5</li>\n<li>Recoat x1</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454579\" target=\"_blank\">Endless Night Sanctuary</a>",
+    "name": "Ultimate Sakapatate",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452779\">Endless Night Sanctuary</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Joyaro (Weapon for Monoco)</li>\n<li>Grandiose Chroma Catalyst x3</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454584\" target=\"_blank\">The Fountain</a>",
+    "name": "Blanche",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448596\">The Fountain</a>, in front of the fountain</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454673\" target=\"_blank\">The Reacher</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448452\">The Reacher</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Baguette (Outfit for Maelle)</li>\n<li>Baguette (Hair for Maelle)</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454674\" target=\"_blank\">The Reacher</a>",
+    "name": "Petànk",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448452\">The Reacher</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454685\" target=\"_blank\">Stone Wave Cliffs - South EntranceTainted</a>",
+    "name": "Chromatic Gault",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - found behind a Paint Spike (Paint Break skill required) down from the Old Farm rest point</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455107\">Tainted</a></li>\n<li>Resplendent Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454693\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Mime",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - After your party sees the Giant Nevron at a distance, follow the path and go left between some plants and find a climbable wall. The Mime will be at the top</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Short (Maelle haircut)</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454694\" target=\"_blank\">Flying Manor</a>",
+    "name": "Clea",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452855\">Flying Manor</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454695\" target=\"_blank\">Renoir's Drafts</a>",
+    "name": "Simon",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449887\">Renoir's Drafts</a> - in The Abyss</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454885\" target=\"_blank\">Chromatic Braseleur</a>",
+    "name": "Chromatic Braseleur",
+    "category": "journal-entry",
+    "info": "<p><strong>Rewards:</strong></p>\n<ul>\n<li>2x Resplendent Chroma Catalyst</li>\n<li>5x Colour of Lumina</li>\n<li>Braselim</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448494\" target=\"_blank\">Fueling Break</a>",
+    "name": "Fueling Break",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> On the ground near the ruined crates</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448508\" target=\"_blank\">Charging Tint</a>",
+    "name": "Charging Tint",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> In the guarded ruined camp.  Can be obtained without fighting</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448513\" target=\"_blank\">Bourgeon</a>",
+    "name": "Breaking Burn",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Guarded by the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448512\">Bourgeon</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448518\" target=\"_blank\">Critical Vulnerability</a>",
+    "name": "Critical Vulnerability",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> In the ruined camp, guarded by the enemies.  Can be obtained without fighting</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448534\" target=\"_blank\">Accelerating Heal</a>",
+    "name": "Accelerating Heal",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> In the ruined camp on the beach</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448545\" target=\"_blank\">Energizing Heal</a>",
+    "name": "Energizing Heal",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> On the ground in the ruined camp guarded by enemies</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448556\" target=\"_blank\">Healing Parry</a>",
+    "name": "Healing Parry",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> In the ruined camp on the cliff.  Can be obtained without fighting</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448585\" target=\"_blank\">Energising Start I</a>",
+    "name": "Energising Start I",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> In the sand behind the ruined crates, under the arch</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448591\" target=\"_blank\">Shared Care</a>",
+    "name": "Shared Care",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> In the ruined camp</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448612\" target=\"_blank\">Dead Energy 1</a>",
+    "name": "Dead Energy 1",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Hidden amongst the ruined crates</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448798\" target=\"_blank\">Flying Waters</a>",
+    "name": "Marking Shots",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found inside <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448799\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Dodger",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Obtained automatically  inside the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448800\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Critical Burn",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448802\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Burning Shots",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448803\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Dead Energy II",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448807\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Empowering Attack",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a> - on the far ledge before exiting the Spring Meadows</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448809\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "SOS Shell",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448820\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Burning Mark",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a> - from the Entrance rest point, head straight ahead, then climb down the cliff diagonally to the ledge below</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448822\" target=\"_blank\">Ancient Sanctuary - South EntranceUltimate Sakapatate</a>",
+    "name": "Stun Boost",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a> - after defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448816\">Ultimate Sakapatate</a>, head up the hill and find the Pictos at the end of the rocky tunnel that you'll need to crouch to get into</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448826\" target=\"_blank\">Gestral MerchantWeird PictosLumiere</a>",
+    "name": "Augmented Aim",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Obtained from the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448824\">Gestral Merchant</a> in exchange for the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448825\">Weird Pictos</a> if you picked it up in <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448441\">Lumiere</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448836\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Breaking Counter",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - in the fallen structure to the left of the Hexga guarding the big clearing</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448846\" target=\"_blank\">Forgotten Battlefield - South EntranceDualliste</a>",
+    "name": "Revive Tint Energy",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - on a grassy ledge after defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448845\">Dualliste</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448928\" target=\"_blank\">Spring MeadowsEveque</a>",
+    "name": "Cleansing Tint",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a> - drops after defeating <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448806\">Eveque</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448929\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Aegis Revival",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a> - clear out the Paint Spike (Paint Break skill required) near the Abandoned Expeditioner Camp rest point and follow the path up to the Pictos</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448931\" target=\"_blank\">Noco</a>",
+    "name": "Exposing Attack",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Can be bought from <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448811\">Noco</a> after fighting him</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449457\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Staggering Attack",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - to the right of the Coral Cave rest point, in the alcove</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449458\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Rewarding Mark",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - in the alcove near the Coral Cave rest point</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449463\" target=\"_blank\">Bourgeon</a>",
+    "name": "Augmented Counter I",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449460\">Bourgeon</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449464\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Versatile",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - from the Lumieran Streets rest point - grapple up to the roofs to find the Pictos</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449468\" target=\"_blank\">Chromatic Troubadour</a>",
+    "name": "Energising Break",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> On the ground behind the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449466\">Chromatic Troubadour</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449469\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Energising Jump",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a> - from the Entrance rest point - head left over the small bridge and then left again over another bridge</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449472\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Attack Lifesteal",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449473\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Energising Start II",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449475\" target=\"_blank\">Ultimate Sakapatate</a>",
+    "name": "Breaker",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448816\">Ultimate Sakapatate</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449476\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Piercing Shot",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a> - in the water in the alcove within the area behind the Paint Spike (requires Paint Break skill)</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449477\" target=\"_blank\">Gestral Merchant</a>",
+    "name": "Critical Moment",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448824\">Gestral Merchant</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449482\" target=\"_blank\">Eesda</a>",
+    "name": "Healing Mark",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449481\">Eesda</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449485\" target=\"_blank\">Gestral Village</a>",
+    "name": "Roulette",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448439\">Gestral Village</a> - speak with the Gestral behind the casino door - first answer \"Yes.\" then answer \"I don't care.\" to obtain the pictos</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449487\" target=\"_blank\">Gestral Village</a>",
+    "name": "Powerful Shots",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448439\">Gestral Village</a> - in the hut behind the Paint Spike (requires Paint Break skill)</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449491\" target=\"_blank\">Francois</a>",
+    "name": "Augmented First Strike",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448832\">Francois</a> upon defeating him in the story</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449492\" target=\"_blank\">Esquie's Nest</a>",
+    "name": "Energising Start III",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448435\">Esquie's Nest</a> - after convincing Esquie to join the party, head across the chasm and find this Pictos near the end of the path that leads up and out</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449493\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Confident",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - drops from defeating the Hexga just beyond the Entrance rest point</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449494\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Energising Pain",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - drops from defeating the Greatsword Cultist enemy</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449701\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "First Strike",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - At the second clearing, make your way up the shorter cliffs on the right. In front of a statue.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449702\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "SOS Power",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - In the area after the shipwreck</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449721\" target=\"_blank\">Stone Wave Cliffs Cave</a>",
+    "name": "Exhausting Power",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448597\">Stone Wave Cliffs Cave</a> - In the area where the boss is</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449723\" target=\"_blank\">Forgotten Battlefield - South Entrance</a>",
+    "name": "Energising Start IV",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - It's inside of the trench reinforced with planks</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449726\" target=\"_blank\">Forgotten Battlefield - South Entrance</a>",
+    "name": "Sweet Kill",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - Follow the path to the left after passing through the big gate. After arriving at the ruins, cross the wooden bridge on the right, follow the path.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449727\" target=\"_blank\">Forgotten Battlefield - South Entrance</a>",
+    "name": "Energising Death",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - Follow the path to the right after passing through the big gate. After climbing the rocks, you will reach a damaged building. It's at the edge of the stone balcony.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449731\" target=\"_blank\">Forgotten Battlefield</a>",
+    "name": "Empowering Tint",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield</a> - After passing through the big gate, you will encounter an NPC named Fading Woman. From where this NPC is, go to the right towards the wooden reinforced trenches. Go up with the zipline.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449735\" target=\"_blank\">Stone Quarry</a>",
+    "name": "Healing Parry",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448478\">Stone Quarry</a> - Help the Troubadour</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449747\" target=\"_blank\">Old Lumiere</a>",
+    "name": "Time Tint",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448430\">Old Lumiere</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449750\" target=\"_blank\">Visages</a>",
+    "name": "Powered Attack",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Anger</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449751\" target=\"_blank\">Visages</a>",
+    "name": "Double Burn",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Anger</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449757\" target=\"_blank\">Visages</a>",
+    "name": "Confident Fighter",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Joy</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449762\" target=\"_blank\">VisagesChromatic Ramasseur</a>",
+    "name": "Glass Canon",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Sadness, in the arena behind the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449761\">Chromatic Ramasseur</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449765\" target=\"_blank\">Augmented Attack</a>",
+    "name": "Augmented Attack",
+    "category": "journal-entry",
+    "info": "<p>Received after beating the optional enemy  Chromatic Lancelier.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449884\" target=\"_blank\">Critical Break</a>",
+    "name": "Critical Break",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Inside the Paint Spike</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449893\" target=\"_blank\">Sirene</a>",
+    "name": "Auto Regen",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449896\" target=\"_blank\">Sirene</a>",
+    "name": "Protecting Death",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449905\" target=\"_blank\">Sirene</a>",
+    "name": "Healing Fire",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a> - from the Crumbling Path rest point, descend down the rope, grapple across the ledge, and duck under the rocks until you see the Pictos on the ground near a corpse</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=450899\" target=\"_blank\">Falling Leaves</a>",
+    "name": "SOS Rush",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448523\">Falling Leaves</a>, next to the Expedition 35 journal.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=450907\" target=\"_blank\">Floating Cemetery</a>",
+    "name": "Auto Powerful",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448522\">Floating Cemetery</a> - If you agree to end Chalier's life, you can obtain this picto.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=450916\" target=\"_blank\">Sky Island</a>",
+    "name": "Greater Slow",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448538\">Sky Island</a> - Head to the end of this field and drop down to the lower area, climb up the wall structures ahead.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452783\" target=\"_blank\">Effective Support</a>",
+    "name": "Effective Support",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Can be found on the ground in a small patch of land northeast of Sirene.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452801\" target=\"_blank\">Sirene</a>",
+    "name": "Greater Shell",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452802\" target=\"_blank\">SireneChromatic Greatsword Cultist</a>",
+    "name": "Effective Heal",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a> - Behind the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452803\">Chromatic Greatsword Cultist</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452818\" target=\"_blank\">Old Lumiere</a>",
+    "name": "Healing Death",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448431\">Old Lumiere</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452839\" target=\"_blank\">Frozen Hearts</a>",
+    "name": "Anti-Freeze",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448496\">Frozen Hearts</a> - Under the paint cage</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452842\" target=\"_blank\">Frozen Hearts</a>",
+    "name": "Burn Affinity",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448496\">Frozen Hearts</a> - On top of the train wreck. Follow the mountain path above, you can go down using the zip line.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452844\" target=\"_blank\">Frozen Hearts</a>",
+    "name": "Burning Break",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448496\">Frozen Hearts</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452848\" target=\"_blank\">Longer Rush</a>",
+    "name": "Longer Rush",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> in front of the tents on the mountain</p>\n<p><strong>Requires:</strong> Esquie's flight</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452854\" target=\"_blank\">Flying Manor</a>",
+    "name": "Protecting Shots",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452855\">Flying Manor</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452859\" target=\"_blank\">Shielding Tint</a>",
+    "name": "Shielding Tint",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> In the ruins of an old building, among the boxes</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452875\" target=\"_blank\">Yellow Harvest</a>",
+    "name": "Death Bomb",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448582\">Yellow Harvest</a> - heading away from the Expedition 68 flag you'll enter a wide area - go to the right, then find the Pictos in a corner near a tent</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452879\" target=\"_blank\">Breaking Slow</a>",
+    "name": "Breaking Slow",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Under the Paint Spike.</p>\n<p><strong>Requires:</strong> Esquie Flight</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452888\" target=\"_blank\">Energising Shell</a>",
+    "name": "Energising Shell",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Under the Paint Spike</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452891\" target=\"_blank\">Red Woods</a>",
+    "name": "Recovery",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448579\">Red Woods</a> -  Interact with the salver. It will ask for a certain amount of Chroma. (Total of 90,000 Chroma). Then a friendly Benisseur will appear and will reward you with this Pictos.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=453323\" target=\"_blank\">Pinabby</a>",
+    "name": "Teamwork",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Can be purchased from <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452873\">Pinabby</a> after fighting them</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=453324\" target=\"_blank\">Pinabby</a>",
+    "name": "Auto Death",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Can be purchased from the merchant <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452873\">Pinabby</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=453348\" target=\"_blank\">Stone Wave Cliffs - North EntranceLampmaster</a>",
+    "name": "Defensive Mode",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448587\">Stone Wave Cliffs - North Entrance</a> - Return in Act II after defeating <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448839\">Lampmaster</a>: Found on corpse near the exit portal.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454444\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Random Defense",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a> - Under the paint cage</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454448\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Enfeebling Attack",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454449\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Weakness Gain",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454450\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Stay Marked",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454580\" target=\"_blank\">Endless Night Sanctuary</a>",
+    "name": "Gradient Break",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452779\">Endless Night Sanctuary</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454667\" target=\"_blank\">Old Lumiere - South Entrance</a>",
+    "name": "Auto Rush",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448430\">Old Lumiere - South Entrance</a> - After soloing the second monster look to the left</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454676\" target=\"_blank\">The Reacher</a>",
+    "name": "Sniper",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448452\">The Reacher</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454677\" target=\"_blank\">The Reacher</a>",
+    "name": "Draining Cleanse",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448452\">The Reacher</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454681\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Auto Shell",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - Reward for helping the White Nekron</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454682\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Breaking Shots",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - jump across the pillars inside the large dark underground area</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454683\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Enfeebling Mark",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - On top of the building near the giant Hexga</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454687\" target=\"_blank\">Stone Wave Cliffs - South EntranceGold Chevalier</a>",
+    "name": "Perilous Parry",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454686\">Gold Chevalier</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454689\" target=\"_blank\">Sirene</a>",
+    "name": "Shield Affinity",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a> - inside the Paint Cage just beyond the first rest point</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454690\" target=\"_blank\">SireneAuto Regen</a>",
+    "name": "Powerful On Shell",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found inside <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a> - drops from the enemy at the bottom of the chamber with many branching bridges, who also guards the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449893\">Auto Regen</a> Pictos</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454703\" target=\"_blank\">Base Shield</a>",
+    "name": "Base Shield",
+    "category": "journal-entry",
+    "info": "<p>Complete the challenge in The Chosen Path</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454859\" target=\"_blank\">Dark Shores</a>",
+    "name": "In Medias Res",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448613\">Dark Shores</a> - Guarded by the enemies at the end of the beach. It can be obtained without fighting.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455106\" target=\"_blank\">Lampmaster</a>",
+    "name": "At Death's Door",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448839\">Lampmaster</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455107\" target=\"_blank\">Chromatic Gault</a>",
+    "name": "Tainted",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454685\">Chromatic Gault</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455108\" target=\"_blank\">Chromatic Gault</a>",
+    "name": "Rejuvenating Revive",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Inside the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454685\">Chromatic Gault</a> arena accessed by destroying the Paint Spike.  Near a corpse behind the hut</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455110\" target=\"_blank\">Forgotten Battlefield - South Entrance</a>",
+    "name": "Longer Shell",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - drops from defeating a common enemy</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455112\" target=\"_blank\">Chromatic Luster</a>",
+    "name": "Energising Parry",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449730\">Chromatic Luster</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455113\" target=\"_blank\">Kasumi</a>",
+    "name": "Inverted Affinity",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by the merchant <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448844\">Kasumi</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455116\" target=\"_blank\">Dualliste</a>",
+    "name": "Combo Attack I",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from the story boss <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448845\">Dualliste</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455120\" target=\"_blank\">Grandis \"Eternal Ice\" Merchant</a>",
+    "name": "Survivor",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455118\">Grandis \"Eternal Ice\" Merchant</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455121\" target=\"_blank\">Grandis \"Eternal Ice\" Merchant</a>",
+    "name": "Greater Rush",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455118\">Grandis \"Eternal Ice\" Merchant</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455126\" target=\"_blank\">Mandelgo</a>",
+    "name": "Longer Powerful",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448851\">Mandelgo</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455128\" target=\"_blank\">Mandelgo</a>",
+    "name": "Healing Counter",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448851\">Mandelgo</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455133\" target=\"_blank\">Chromatic Danseuse</a>",
+    "name": "Revive Paradox",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452817\">Chromatic Danseuse</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455135\" target=\"_blank\">Blooraga</a>",
+    "name": "Healing Share",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449749\">Blooraga</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455138\" target=\"_blank\">Chromatic Ramasseur</a>",
+    "name": "Augmented Counter II",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449761\">Chromatic Ramasseur</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455141\" target=\"_blank\">Mask Keeper</a>",
+    "name": "Immaculate",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449874\">Mask Keeper</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455146\" target=\"_blank\">Tisseur</a>",
+    "name": "Anti-Charm",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449900\">Tisseur</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455148\" target=\"_blank\">Klaudiso</a>",
+    "name": "Double Mark",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449904\">Klaudiso</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455149\" target=\"_blank\">Klaudiso</a>",
+    "name": "Energising Attack II",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449904\">Klaudiso</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455150\" target=\"_blank\">Klaudiso</a>",
+    "name": "Greater Powerful",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449904\">Klaudiso</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455152\" target=\"_blank\">Sirène</a>",
+    "name": "Energising Turn",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452893\">Sirène</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455282\" target=\"_blank\">Critical Stun</a>",
+    "name": "Critical Stun",
+    "category": "journal-entry",
+    "info": "<p>Gestral merchant inside Sacred River. Need to win battle for access</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455283\" target=\"_blank\">Solidfying</a>",
+    "name": "Solidfying",
+    "category": "journal-entry",
+    "info": "<p>Gestral merchant inside Sacred River. Need to win battle for access</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455284\" target=\"_blank\">Energising Parry</a>",
+    "name": "Energising Parry",
+    "category": "journal-entry",
+    "info": "<p>Gestral merchant  inside Sacred River. Need to win battle for access</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448804\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Resin",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a>, on the side of a cliff amongst ruined crates and barrels surrounded by glowing blue foliage</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448825\" target=\"_blank\">Augmented Aim</a>",
+    "name": "Weird Pictos",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Obtained from Tom in the green tent at the Gommage in exchange for one token.  Can later be converted into <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448826\">Augmented Aim</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448827\" target=\"_blank\">Lumiere</a>",
+    "name": "A journal from Gustave's apprentices",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Obtained from Gustave's apprentices during the Gommage in <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448441\">Lumiere</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448923\" target=\"_blank\">Fracture SurvivorOld Lumiere</a>",
+    "name": "Old Key",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Obtained from Colette in the blue tent at the Gommage in exchange for one token.  Can later be used to open an old gate to retrieve the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448852\">Fracture Survivor</a> journal entry in <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448430\">Old Lumiere</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449483\" target=\"_blank\">Gestral Village</a>",
+    "name": "Wooden Stick",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Can be bought from the Gestral in the marketplace of the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448439\">Gestral Village</a> for x1,000 Chroma</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449490\" target=\"_blank\">Esquie's NestGestral Village</a>",
+    "name": "Mushroom",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448435\">Esquie's Nest</a> - to the left of the Mime, in the water near the glowing mushrooms.  Bring this item to Karatom in the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448439\">Gestral Village</a> for the Pure Outfit</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449744\" target=\"_blank\">Esoteric Ruins</a>",
+    "name": "Wood Boards",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448459\">Esoteric Ruins</a> - After passing through the maze, you will find it on the ruins of the builds right in front of you. You can deliver this item to the spirit you see at the entrance.</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Protecting Heal</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455119\" target=\"_blank\">GargantGrandis \"Eternal Ice\" Merchant</a>",
+    "name": "Eternal Ice",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452833\">Gargant</a>.  Give this item to the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455118\">Grandis \"Eternal Ice\" Merchant</a> to unlock his inventory</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448806\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Eveque",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found at the end of the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448813\" target=\"_blank\">Flying Waters</a>",
+    "name": "Goblu",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found near the end of the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448816\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Ultimate Sakapatate",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found near the end of the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448832\" target=\"_blank\">Esquie's Nest</a>",
+    "name": "Francois",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448435\">Esquie's Nest</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448839\" target=\"_blank\">Stone Wave Cliffs - South EntranceAt Death's Door</a>",
+    "name": "Lampmaster",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found near the end of the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455106\">At Death's Door</a></li>\n<li>Shape of Life</li>\n<li>Polished Chroma Catalyst x3</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448845\" target=\"_blank\">Forgotten Battlefield - South EntranceDualiso (Gustave/Verso)Combo Attack I</a>",
+    "name": "Dualliste",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found near the end of the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455115\">Dualiso (Gustave/Verso)</a></li>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455116\">Combo Attack I</a></li>\n<li>Polished Chroma Catalyst x3</li>\n<li>Recoat x1</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448848\" target=\"_blank\">Monoco's Station - South Entrance</a>",
+    "name": "Stalact",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found inside <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448427\">Monoco's Station - South Entrance</a> - fought shortly after reuniting with Monoco</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448853\" target=\"_blank\">Old Lumiere - South EntranceMelarum (Maelle)</a>",
+    "name": "Renoir",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found in front of the Manor within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448430\">Old Lumiere - South Entrance</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455131\">Melarum (Maelle)</a></li>\n<li>Polished Chroma Catalyst x3</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449874\" target=\"_blank\">VisagesImmaculate</a>",
+    "name": "Mask Keeper",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455141\">Immaculate</a> (Pictos)</li>\n<li>Resplendent Chroma Catalyst x6</li>\n<li>Recoat x1</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449900\" target=\"_blank\">SireneTissenum (Maelle)Anti-Charm</a>",
+    "name": "Tisseur",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a> - Although it is a boss that is connected to the story, it is an optional boss. It is entirely up to the player to defeat it or not.</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455145\">Tissenum (Maelle)</a></li>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455146\">Anti-Charm</a> (Pictos)</li>\n<li>Resplendent Chroma Catalyst x3</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449901\" target=\"_blank\">Sirene</a>",
+    "name": "Glissando",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Sirene Outfit (Lune)</li>\n<li>Resplendent Chroma Catalyst x1</li>\n<li>Recoat x1</li>\n<li>x2,920 Chroma</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452833\" target=\"_blank\">Frozen HeartsEternal Ice</a>",
+    "name": "Gargant",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448496\">Frozen Hearts</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Snowim (Weapon for Lune)</li>\n<li>Anti-Burn (Picto - Level 22)</li>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455119\">Eternal Ice</a> (Quest Item)</li>\n<li>Grandiose Chroma Catalyst x3</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452893\" target=\"_blank\">SireneTisseron (Sciel)Energising Turn</a>",
+    "name": "Sirène",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455151\">Tisseron (Sciel)</a></li>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455152\">Energising Turn</a></li>\n<li>Resplendent Chroma Catalyst x3</li>\n<li>Recoat x1</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454422\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Paintress",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Painted Power</li>\n<li>Resplendent Chroma Catalyst x3</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454423\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Renoir",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Renoir's Suit (Outfit for Verso)</li>\n<li>Second Chance</li>\n<li>Resplendent Chroma Catalyst x3</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448805\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Revive Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a>, at the end of a narrow rocky passage</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448808\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Chroma Elixir Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - inside the first Paint Cage you come across just after entering the location</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448815\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Chroma Elixir Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a> - inside a Paint Cage</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448818\" target=\"_blank\">Ancient Sanctuary - South EntranceMime</a>",
+    "name": "Revive Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a> - in the ruined shack below the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448817\">Mime</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448821\" target=\"_blank\">Ancient Sanctuary - South EntranceUltimate Sakapatate</a>",
+    "name": "Energy Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a> - up on the hill after defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448816\">Ultimate Sakapatate</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448837\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Energy Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - Next to the shipwreck</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448842\" target=\"_blank\">Forgotten Battlefield - South Entrance</a>",
+    "name": "Chroma Elixir Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - inside a Paint Cage</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448925\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Energy Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a> - after climbing the rope in the building, upon looking out to the grassy ledge below, head right down the ramp in the building to find the shard at the bottom under the ramp</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448927\" target=\"_blank\">Spring MeadowsResin</a>",
+    "name": "Healing Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a>:</p>\n<ul>\n<li>First speak with Jar, who can be found sitting near the Abandoned Expeditioner Camp rest point.  He requests your help</li>\n<li>Retrieve the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448804\">Resin</a> and head back to speak with Jar again</li>\n<li>When Jar asks you for light, shoot the lantern on top of his staff, then speak with him again for your reward</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449459\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Revive Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - head up and to the right from the Coral Cave rest point and drop into the red hole in the ground.  Open the Paint Cage in the area below to obtain the tint</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449465\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Energy Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - in the street near the stall just below the Lumerian Streets rest point</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449474\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Healing Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a> - in the red grass at the feet of a statue, just past the Giant Bell Alley rest point</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449712\" target=\"_blank\">The Manor</a>",
+    "name": "Energy Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448525\">The Manor</a> - You can reach it by jumping over the platforms. Among the books.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449718\" target=\"_blank\">Stone Wave Cliffs Cave</a>",
+    "name": "Chroma Elixir Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448597\">Stone Wave Cliffs Cave</a> -  Inside the Paint Cage. After crossing the bridge formed by a stone column, go through the hole between the rocks on the right and go up.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449725\" target=\"_blank\">Forgotten Battlefield - South Entrance</a>",
+    "name": "Healing Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - After passing through the big gate, follow the path to the left. Among the ruins.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449728\" target=\"_blank\">Forgotten Battlefield - South Entrance</a>",
+    "name": "Energy Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - Follow the path to the right after passing through the big gate. Cross the wooden bridge on the left and go down over the shipwreck. It's behind the wooden boxes on the right.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449754\" target=\"_blank\">Visages</a>",
+    "name": "Healing Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Joy</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449759\" target=\"_blank\">Visages</a>",
+    "name": "Energy Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Sadness</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449899\" target=\"_blank\">Sirene</a>",
+    "name": "Revive Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a> - Under the Paint Cage</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452800\" target=\"_blank\">Sirene</a>",
+    "name": "Shape of Health",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a> - Inside the Manor. Break the mirror in the bathroom.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452838\" target=\"_blank\">Frozen Hearts</a>",
+    "name": "Revive Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448496\">Frozen Hearts</a> - Under the paint cage</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454446\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Revive Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a> - Under  the paint cage</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454574\" target=\"_blank\">Endless Night Sanctuary</a>",
+    "name": "Grandiose Chroma Catalyst",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452779\">Endless Night Sanctuary</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454575\" target=\"_blank\">Endless Night Sanctuary</a>",
+    "name": "Grandiose Chroma Catalyst",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452779\">Endless Night Sanctuary</a> - Under the paint cage. It's close to the Night Totem Expedition Flag.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454577\" target=\"_blank\">Endless Night Sanctuary</a>",
+    "name": "Grandiose Chroma Catalyst",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452779\">Endless Night Sanctuary</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454582\" target=\"_blank\">Endless Night Sanctuary</a>",
+    "name": "Grandiose Chroma Catalyst",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452779\">Endless Night Sanctuary</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454684\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Healing Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - Just down the East path from the Paintress Shrine Flag, guarded by 2 Rocher Enemies</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454697\" target=\"_blank\">Forgotten Battlefield - South Entrance</a>",
+    "name": "Revive Tint Shard",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - Follow the path to the right after passing through the big gate. Under the wooden bridge at the foot of a small burnt tree.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454862\" target=\"_blank\">Energy Tint Shard</a>",
+    "name": "Energy Tint Shard",
+    "category": "journal-entry",
+    "info": "<p>In the room of Glissando, on the right and back side.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454881\" target=\"_blank\">Revive Tint Shard</a>",
+    "name": "Revive Tint Shard",
+    "category": "journal-entry",
+    "info": "<p>Inside Path of Anger, more or less in front of the entrance, on the platform with 3 mobs.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448835\" target=\"_blank\">Stone Wave Cliffs - South EntranceExpedition 78</a>",
+    "name": "Delaram (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - found inside the Paint Cage in the chamber above the Hexga, just beyond where you find the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448834\">Expedition 78</a> entry</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448924\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Lanceram (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found inside the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a> - drops from the Lancelier encounter after the rest point</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448926\" target=\"_blank\">Spring Meadows</a>",
+    "name": "Lighterim (Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448436\">Spring Meadows</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448932\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Brulerum (Maelle)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - dropped by the Brulers</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448933\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Deminerim (Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - Find the Intact Mine and give it to the Demineur in the area that can be talked to</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449456\" target=\"_blank\">Flying Waters - South Entrance</a>",
+    "name": "Cruleram (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a> - drops from the blacksmith Cruler enemy</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449462\" target=\"_blank\">BourgeonFlying Waters - South Entrance</a>",
+    "name": "Abysseram (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449460\">Bourgeon</a> found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448438\">Flying Waters - South Entrance</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449467\" target=\"_blank\">Chromatic Troubadour</a>",
+    "name": "Troubadim (Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449466\">Chromatic Troubadour</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449470\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Sakaram (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a> - drops from defeating the Robust Sakapatate story enemy</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449471\" target=\"_blank\">Ancient Sanctuary - South Entrance</a>",
+    "name": "Trebuchim (Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from the Ranger and Catapult Sakapatates found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448440\">Ancient Sanctuary - South Entrance</a> - from the Sanctuary Maze rest point find these enemies in the clearing accessed by crouching through the rocks</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449478\" target=\"_blank\">Gestral Merchant</a>",
+    "name": "Demonam (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Can be bought from the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448824\">Gestral Merchant</a> after defeating them in their fight</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449479\" target=\"_blank\">Gestral Village</a>",
+    "name": "Sekarum (Maelle)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Can be bought from Eesda after winning a fight against them.  Find them in the hut just beyond the market inside the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448439\">Gestral Village</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449486\" target=\"_blank\">Medalum (Maelle)</a>",
+    "name": "Medalum (Maelle)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Rewarded from the final Gestral fight in the Arena during the story quest - you must win the fight with Maelle to receive the weapon</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449489\" target=\"_blank\">Gestral Village</a>",
+    "name": "Betelim (Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448439\">Gestral Village</a> - inside the hut behind the Paint Spike (requires Paint Break skill)</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449746\" target=\"_blank\">Old Lumiere</a>",
+    "name": "Nusaro (Monoco)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448430\">Old Lumiere</a> - In the first area after the Monaco cutscene, go through the ruined door on the right and follow the path</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449758\" target=\"_blank\">Visages</a>",
+    "name": "Confuso (Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - Path of Joy, look for an opening on the left before facing the Joy mask.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449879\" target=\"_blank\">Sinister Cave</a>",
+    "name": "Corderon (Weapon for Sciel)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448443\">Sinister Cave</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449880\" target=\"_blank\">Sinister Cave</a>",
+    "name": "Elerim (Weapon for Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448443\">Sinister Cave</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452820\" target=\"_blank\">Old Lumiere</a>",
+    "name": "Redalim (Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448431\">Old Lumiere</a> - Under the paint cage. It's close to the  Manor Gardens expedition flag .</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452860\" target=\"_blank\">Crimson Forest</a>",
+    "name": "Chevalam (Weapon for Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448527\">Crimson Forest</a> - Where you killed Chromatic Gold Chevaliere</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=453338\" target=\"_blank\">Potierim (Lune)</a>",
+    "name": "Potierim (Lune)",
+    "category": "journal-entry",
+    "info": "<p>Dropped by one of the enemies.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454440\" target=\"_blank\">Inside the Monolith</a>",
+    "name": "Lithelim (Weapon for Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452890\">Inside the Monolith</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454678\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Chation (Sciel)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - Follow the main path to the destroyed airship. Go through the tunnel that was left by the remnants of the airship, then cross the platform to reach the other side. Stay on this path until you encounter a duo of a Greatsword Cultist and Reaper Cultist near the bridge. Defeat them so that it can drop the weapon.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454679\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Choralim (Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - at the top of the ruined building</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454680\" target=\"_blank\">Stone Wave Cliffs - South Entrance</a>",
+    "name": "Duenum (Maelle)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448434\">Stone Wave Cliffs - South Entrance</a> - Shoot all the locks of the Paint Cage located in the farm to obtain the Duenum.</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455105\" target=\"_blank\">Bourgeon</a>",
+    "name": "Gaulteram (Gustave/jVerso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448554\">Bourgeon</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455109\" target=\"_blank\">Forgotten Battlefield - South Entrance</a>",
+    "name": "Ramasson (Sceil)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448432\">Forgotten Battlefield - South Entrance</a> - drops from defeating a common enemy</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455111\" target=\"_blank\">Chromatic Luster</a>",
+    "name": "Lusteson (Sceil)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449730\">Chromatic Luster</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455114\" target=\"_blank\">Kasumi</a>",
+    "name": "Benisim (Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by the merchant <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448844\">Kasumi</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455115\" target=\"_blank\">Dualliste</a>",
+    "name": "Dualiso (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from the story boss <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448845\">Dualliste</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455122\" target=\"_blank\">Grandis \"Eternal Ice\" Merchant</a>",
+    "name": "Grandaro (Monoco)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455118\">Grandis \"Eternal Ice\" Merchant</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455123\" target=\"_blank\">Grandis \"Eternal Ice\" Merchant</a>",
+    "name": "Cultam (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455118\">Grandis \"Eternal Ice\" Merchant</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455124\" target=\"_blank\">Grandis \"Eternal Ice\" Merchant</a>",
+    "name": "Coldum (Maelle)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455118\">Grandis \"Eternal Ice\" Merchant</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455127\" target=\"_blank\">Mandelgo</a>",
+    "name": "Algueron (Sceil)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448851\">Mandelgo</a> (after defeating him in combat)</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455129\" target=\"_blank\">Old Lumiere - South Entrance</a>",
+    "name": "Battlum (Maelle)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448430\">Old Lumiere - South Entrance</a> - drops from a common enemy</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455131\" target=\"_blank\">Renoir</a>",
+    "name": "Melarum (Maelle)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448853\">Renoir</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455132\" target=\"_blank\">Chromatic Danseuse</a>",
+    "name": "Danseso (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452817\">Chromatic Danseuse</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455134\" target=\"_blank\">Blooraga</a>",
+    "name": "Sadon (Sciel)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449749\">Blooraga</a> after defeating him in combat</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455136\" target=\"_blank\">Visages</a>",
+    "name": "Contorso (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - drops from a common enemy near the Joy Vale rest point</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455137\" target=\"_blank\">Visages</a>",
+    "name": "Chapelim (Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - drops from the giant mask enemy found in the Joy Vale expedition flag area (choose \"Joy\" to begin the fight)</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455139\" target=\"_blank\">Visages</a>",
+    "name": "Boucharo (Monoco)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - drops from the giant mask enemy found in the Sadness Vale expedition flag area (choose \"Sadness\" to begin the fight)</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455140\" target=\"_blank\">Visages</a>",
+    "name": "Clierum (Maelle)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448425\">Visages</a> - drops from the giant mask enemy found in the Anger Vale expedition flag area (choose \"Anger\" to begin the fight)</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455143\" target=\"_blank\">Chromatic Greatsword Cultist</a>",
+    "name": "Sireso (Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452803\">Chromatic Greatsword Cultist</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455144\" target=\"_blank\">Sirene</a>",
+    "name": "Colim (Lune)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448426\">Sirene</a> - drops from a common enemy high up in the large chamber with many branching bridges</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455145\" target=\"_blank\">Tisseur</a>",
+    "name": "Tissenum (Maelle)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449900\">Tisseur</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455147\" target=\"_blank\">Klaudiso</a>",
+    "name": "Chantenum (Maelle)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449904\">Klaudiso</a> after defeating him in combat</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455151\" target=\"_blank\">Sirène</a>",
+    "name": "Tisseron (Sciel)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452893\">Sirène</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455153\" target=\"_blank\">Chromatic Reaper Cultist</a>",
+    "name": "Blodam (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448542\">Chromatic Reaper Cultist</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455154\" target=\"_blank\">Dark Shores</a>",
+    "name": "Corpeso (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Found within the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448613\">Dark Shores</a> - drops from a common enemy</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455156\" target=\"_blank\">Clair Obscur</a>",
+    "name": "Dreameso (Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454424\">Clair Obscur</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455157\" target=\"_blank\">Flying Manor</a>",
+    "name": "Gesam (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by Fusoka inside the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452855\">Flying Manor</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455158\" target=\"_blank\">enemies</a>",
+    "name": "Glaceso (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448493\">enemies</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455159\" target=\"_blank\">Lumiere</a>",
+    "name": "Liteso (Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from a common enemy in <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448441\">Lumiere</a> during Act III</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455160\" target=\"_blank\">Noahram (Gustave/Verso)</a>",
+    "name": "Noahram (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Gustave is automatically given this weapon at the beginning of the game</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455161\" target=\"_blank\">Renoir's Drafts</a>",
+    "name": "Nosaram (Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by Grour inside of <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=449887\">Renoir's Drafts</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455162\" target=\"_blank\">Cruler</a>",
+    "name": "Seeram (Gustave/Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=450912\">Cruler</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455163\" target=\"_blank\">Bruler</a>",
+    "name": "Bourgelon (Sciel)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=450913\">Bruler</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455164\" target=\"_blank\">Bruler</a>",
+    "name": "Gobluson (Sciel)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=450913\">Bruler</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455165\" target=\"_blank\">Simon</a>",
+    "name": "Simoso (Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Drops from defeating <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=454695\">Simon</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455166\" target=\"_blank\">The Reacher</a>",
+    "name": "Tireso (Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Sold by Eragol (after defeating him in combat) inside <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448452\">The Reacher</a></p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455167\" target=\"_blank\">Verleso (Verso)</a>",
+    "name": "Verleso (Verso)",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Verso is automatically given this weapon when he joins the party at the beginning of Act II</p>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448454\" target=\"_blank\">Chromatic Moissonneuse</a>",
+    "name": "Chromatic Moissonneuse",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> On the beach, guarding the Chroma</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Moisson (Weapon for Sciel)</li>\n<li>Resplendent Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448476\" target=\"_blank\">Coastal Cave</a>",
+    "name": "Grosse Tete",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> Guarding the <a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448474\">Coastal Cave</a></p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Warming Up</li>\n<li>Resplendent Chroma Catalyst x1</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448480\" target=\"_blank\">Frost Eveque</a>",
+    "name": "Frost Eveque",
+    "category": "journal-entry",
+    "info": "<p><strong>Rewards:</strong></p>\n<ul>\n<li>Energising Gradient</li>\n<li>Resplendent Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448512\" target=\"_blank\">Bourgeon</a>",
+    "name": "Bourgeon",
+    "category": "journal-entry",
+    "info": "<p><strong>Additional Enemies:</strong></p>\n<ul>\n<li>Ramassuer</li>\n<li>Danseuse</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448526\" target=\"_blank\">Sprong</a>",
+    "name": "Sprong",
+    "category": "journal-entry",
+    "info": "<p><strong>Rewards:</strong></p>\n<ul>\n<li>Cheater</li>\n<li>Grandiose Chroma Catalyst x3</li>\n<li>x15,980 Chrome</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448531\" target=\"_blank\">Bourgeon</a>",
+    "name": "Bourgeon",
+    "category": "journal-entry",
+    "info": "<p><strong>Rewards:</strong></p>\n<ul>\n<li>Abysseram (Weapon for Verso)</li>\n<li>Powerful On Shell</li>\n<li>Augmented Counter I</li>\n<li>Resplendent Chroma Catalyst x2\n-Bourgeon Skin x1</li>\n<li>Grandiose Chroma Catalyst x1</li>\n<li>x10,564 Chroma</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448542\" target=\"_blank\">Blodam (Gustave/Verso)</a>",
+    "name": "Chromatic Reaper Cultist",
+    "category": "journal-entry",
+    "info": "<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455153\">Blodam (Gustave/Verso)</a></li>\n<li>Resplendent Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448554\" target=\"_blank\">Gaulteram (Gustave/jVerso)</a>",
+    "name": "Bourgeon",
+    "category": "journal-entry",
+    "info": "<p><strong>Additional Enemies:</strong></p>\n<ul>\n<li>Volester</li>\n<li>Gault</li>\n</ul>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li><a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=455105\">Gaulteram (Gustave/jVerso)</a></li>\n<li>Polished Chroma Catalyst</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448595\" target=\"_blank\">Chromatic Jar</a>",
+    "name": "Chromatic Jar",
+    "category": "journal-entry",
+    "info": "<p><strong>Rewards:</strong></p>\n<ul>\n<li>Jarum (Weapon for Maelle) ??</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=448611\" target=\"_blank\">Bourgeon</a>",
+    "name": "Bourgeon",
+    "category": "journal-entry",
+    "info": "<p><strong>Additional Enemies:</strong></p>\n<ul>\n<li>Rocher</li>\n<li>Potier</li>\n</ul>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Potierim</li>\n<li>Abysseram</li>\n<li>Augmented Counter I</li>\n<li>Bourgeon Skin x1</li>\n<li>Polished Chroma Catalyst x1</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452849\" target=\"_blank\">Serpenphare</a>",
+    "name": "Serpenphare",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> To reach this boss, you’ll need to progress the story far enough to recruit Esquie and unlock the ability to Fly.</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Energy Master (Picto)</li>\n<li>Perfect Chroma Catalyst x1</li>\n<li>Grandiose Chroma Catalyst x3</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=452852\" target=\"_blank\">Chromatic Demineur</a>",
+    "name": "Chromatic Demineur",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> On the hill</p>\n<p><strong>Rewards:</strong> </p>\n<ul>\n<li>Angerim (Weapon for Lune)</li>\n<li>Grandiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=453359\" target=\"_blank\">Chromatic Portier</a>",
+    "name": "Chromatic Portier",
+    "category": "journal-entry",
+    "info": "<p><strong>Location:</strong> On the floating island (requires Esquie flying ability)</p>\n<p><strong>Rewards:</strong></p>\n<ul>\n<li>Anti-Blight (Picto)</li>\n<li>Grandiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  },
+  {
+    "found": false,
+    "location": "<a href=\"https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent?locationIds=453360\" target=\"_blank\">Chromatic Petank</a>",
+    "name": "Chromatic Petank",
+    "category": "journal-entry",
+    "info": "<p><strong>Rewards:</strong></p>\n<ul>\n<li>Anti-Stun (Picto)</li>\n<li>Grandiose Chroma Catalyst x2</li>\n<li>Colour of Lumina x5</li>\n</ul>"
+  }
+]
