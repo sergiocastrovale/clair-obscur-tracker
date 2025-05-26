@@ -38,7 +38,9 @@ const handleOpenChange = (isOpen: boolean) => {
       <template v-else-if="isBossPin(pin)">
         <Boss :pin="pin as BossPin" />
       </template>
-      <DialogFooter class="border-t border-zinc-700 pt-4">
+      <DialogFooter class="border-t border-zinc-700 pt-4 flex justify-between items-center w-full flex-row md:flex-row md:justify-between">
+        <div class="text-zinc-400 text-sm">Tip: shift + click a pin to mark it as completed!</div>
+
         <DialogClose as-child>
           <button
             class="py-2 px-4 text-sm font-medium rounded-md border border-zinc-600 bg-zinc-700 text-zinc-50 cursor-pointer transition-colors duration-200 hover:bg-zinc-600 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:ring-offset-2 focus:ring-offset-zinc-900"

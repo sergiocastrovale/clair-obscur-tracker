@@ -2,6 +2,7 @@
 import { ref, watch } from 'vue';
 
 const searchQuery = ref('');
+
 const emit = defineEmits(['update:searchQuery']);
 
 let debounceTimer: number | undefined = undefined;
@@ -25,7 +26,7 @@ watch(searchQuery, (newValue) => {
       id="search"
       v-model="searchQuery"
       placeholder="Search locations or bosses..."
-      class="bg-stone-800 border border-stone-700 text-stone-300 text-sm rounded-md focus:ring-1 focus:ring-amber-500 focus:border-amber-500 block w-full p-3 md:p-2 placeholder-stone-500 transition-colors duration-150"
+      class="bg-stone-800 border border-stone-700 text-stone-300 text-sm rounded-md focus:ring-1 focus:ring-amber-500 focus:border-amber-500 block w-full p-3 md:py-1 md:px-2 placeholder-stone-500 transition-colors duration-150"
     />
   </div>
 </template>

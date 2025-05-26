@@ -15,7 +15,7 @@ const handleChange = (checked: boolean) => {
 <template>
   <div class="flex items-center space-x-1">
     <Check id="hide-completed" :size="5" :checked="isChecked" @update:checked="handleChange" />
-    <label for="hide-completed" class="text-sm text-zinc-300 select-none cursor-pointer">
+    <label for="hide-completed" class="text-sm text-zinc-400 select-none cursor-pointer">
       Hide Completed
     </label>
   </div>
