@@ -21,12 +21,12 @@ import Filters from '@/components/Filters.vue';
           <Dialog>
             <DialogTitle class="sr-only">About</DialogTitle>
             <DialogTrigger>
-              <Info class="hover:text-stone-200" />
+              <Info class="hover:text-stone-200" :size="21" />
             </DialogTrigger>
-            <DialogContent>
-              <DialogDescription class="text-stone-900">
+            <DialogContent  class="bg-zinc-900 border-0">
+              <DialogDescription class="text-zinc-200 bg-zinc-900">
                 <h3 class="font-semibold text-lg mb-2">What's this?</h3>
-                <p class="mb-3">This tool is meant to be your map companion in Clair Obscur: Expedition 33. </p>
+                <p class="mb-3">This tool is meant to be your map companion in Clair Obscur: Expedition 33.</p>
                 <p>
                   Unlike other excellent tracking tools that allow you to track every single thing the game has to offer,
                   this will only take in consideration locations and bosses.
@@ -42,16 +42,16 @@ import Filters from '@/components/Filters.vue';
                 </p>
 
                 <ul class="list-disc list-inside mb-3">
-                  <li>MapGenie's <a href="https://mapgenie.io/clair-obscur-expedition-33/checklist" target="_blank" class="text-amber-500" rel="noopener noreferrer">checklist</a> and <a href="https://mapgenie.io/clair-obscur-expedition-33/maps/the-continent" target="_blank" class="text-amber-500" rel="noopener noreferrer">map</a></li>
-                  <li><a href="https://expedition33.wiki.fextralife.com/Expedition+33+Wiki" target="_blank" class="text-amber-500" rel="noopener noreferrer">the Wiki</a></li>
+                  <li> <a href="https://mapgenie.io/clair-obscur-expedition-33" target="_blank" class="underline" rel="noopener noreferrer">MapGenie</a></li>
+                  <li><a href="https://expedition33.wiki.fextralife.com/Expedition+33+Wiki" target="_blank" class="underline" rel="noopener noreferrer">The Fextralife Wiki</a></li>
                 </ul>
 
                 <h3 class="font-semibold text-lg mb-2 mt-5">Why did you build this?</h3>
                 <p class="mb-3">
-                  I was looking for an excuse to do a "dev speedrun" of sorts by building a very small app as quickly as possible.
+                  I was looking for an excuse to do an almost-vibe-coding project as quickly as possible.
                 </p>
                 <p>
-                  Given that not being able to track the locations and bosses you've beaten in the game is probably the ONLY flaw of this game, this seemed like a quick - but useful - project to work on.
+                  Given that not being able to track the locations and bosses you've beaten is probably the ONLY flaw of this game, this seemed like a quick - but useful - project to work on.
                 </p>
 
                 <h3 class="font-semibold text-lg mb-2 mt-5">Caveats</h3>
@@ -63,15 +63,11 @@ import Filters from '@/components/Filters.vue';
                   progress.</p>
               </DialogDescription>
             </DialogContent>
+
           </Dialog>
 
-          <a href="https://github.com/sergiocastrovale/clair-obscur-tracker" target="_blank"
-            class="hover:text-stone-200">
-            <GitBranch :size="18" />
-          </a>
-
-          <a href='https://ko-fi.com/D1D11FEPF7' target='_blank'>
-            <img style="height: 36px" src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' alt='Buy Me a Coffee' />
+          <a id="kofi" href="https://ko-fi.com/D1D11FEPF7" target="_blank" rel="noopener noreferrer">
+            <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" alt="Buy Me a Coffee" />
           </a>
         </div>
       </div>
@@ -81,3 +77,9 @@ import Filters from '@/components/Filters.vue';
     <Toaster />
   </div>
 </template>
+
+<style>
+#kofi > img {
+  height: 36px;
+}
+</style>

@@ -41,4 +41,4 @@ pnpm run dev
 
 The map uses [Leaflet.js](https://leafletjs.com) and is based on the `public/map.png` - the high resolution source with which the map tiles are built.
 
-To build the tiles, simply run `node tiles`. You don't _need to do this_ - the tiles included in this repo - but feel free to play around if you want.
+To build the tiles, simply run `node tiles`. You don't _need to do this_ - the are tiles included in this repo - but feel free to play around if you want.
